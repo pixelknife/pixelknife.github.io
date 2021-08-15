@@ -1,35 +1,26 @@
-## 像素刻刀(PixelKnife)软件
+# 像素刻刀(PixelKnife)软件
 
 像素刻刀软件是处理大型遥感卫星数据特别是中国国产遥感卫星数据的一些重要的软件工具。
 
-### Markdown
+## 软件功能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+软件主要是为了解决实际问题，而且根据2/8原则，力图解决核心问题。
 
-```markdown
-Syntax highlighted code block
+### 高精度配准
 
-# Header 1
-## Header 2
-### Header 3
+### 不失真融合
 
-- Bulleted
-- List
+### 缩略图调色
 
-1. Numbered
-2. List
+### 无饱和增强
 
-**Bold** and _Italic_ and `Code` text
+## 软件环境
 
-[Link](url) and ![Image](src)
-```
+软件建立在著名的GDAL工具的基础上，包含了最新的GDAL软件功能，并在此基础上增加了新的命令行工具。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 联系方式
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pixelknife/pixelknife.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+陈甫
+中国科学院空天信息创新研究院
+chenfu@aircas.ac.cn
+13811147935
