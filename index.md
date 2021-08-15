@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 像素刻刀(PixelKnife)软件
 
-You can use the [editor on GitHub](https://github.com/pixelknife/pixelknife.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+像素刻刀软件是处理大型遥感卫星数据特别是中国国产遥感卫星数据的一些重要的软件工具。
 
 ### Markdown
 
