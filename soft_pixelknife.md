@@ -12,17 +12,17 @@
 
 
 
-### 1.1 [高精度配准](registration.html)
+### 1.1 [高精度配准](algorithm_registration.html)
 
-### 1.2 [不失真融合](recover.html)
+### 1.2 [不失真融合](algorithm_recover.html)
 
-### 1.3 [缩略图调色](thumb.html)
-
-
-### 1.4 [无饱和增强](deexpose.html)
+### 1.3 [缩略图调色](algorithm_thumb.html)
 
 
-### 1.5 [自动变化检测](change_detect.html)
+### 1.4 [无饱和增强](algorithm_deexpose.html)
+
+
+### 1.5 [自动变化检测](algorithm_change_detect.html)
 
 
 

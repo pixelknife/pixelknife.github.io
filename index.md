@@ -39,9 +39,9 @@
 
 [火石(Flint)全球夜光产品](product_flint.html)
 
-沉香(Lignaloo)全球云分布统计产品
+[沉香(Lignaloo)全球云分布统计产品](product_lignaloo.html)
 
-天下无云(CloudlessWorld)遥感影像地图产品
+[天下无云(CloudlessWorld)遥感影像地图产品](product_cloudless_world.html)
 
 
 
@@ -51,7 +51,21 @@
 
 
 
-## 6 研究与讨论
+## 6 应用方案
+
+[大区域制图](solution_imagemap.html)
+
+军事侦察
+
+城市两违
+
+河道四乱
+
+保护区管理
+
+
+
+## 7 研究讨论
 
 [研究与讨论板块](discuss.html)汇集了研究工作中的短篇评论、以及发表论文的中文简介。
 
