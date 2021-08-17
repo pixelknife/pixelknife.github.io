@@ -55,7 +55,7 @@
 
 [大区域制图](solution_imagemap.html)
 
-军事侦察
+[军事侦察](solution_change.html)
 
 城市两违
 

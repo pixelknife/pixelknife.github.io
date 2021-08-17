@@ -16,7 +16,7 @@ PlanetScope小卫星群是用于地表变化监测的最重要的数据源，它
 
 
 
-2）以8月15图像为基准，调整8月14日的影像，实现精细化配准
+2）以8月15图像为基准，调整8月14日的影像，实现精细化配准。这里挪动的主要是一些高楼导致的视觉偏差（左侧红色的那些）。
 
 [![f48FRH.gif](https://z3.ax1x.com/2021/08/17/f48FRH.gif)](https://imgtu.com/i/f48FRH)
 
@@ -28,20 +28,20 @@ PlanetScope小卫星群是用于地表变化监测的最重要的数据源，它
 
 
 
-4）图像增强以及锐化，突出纹理细节
+4）图像增强以及锐化，突出纹理细节。
 
 [![f48ZLt.gif](https://z3.ax1x.com/2021/08/17/f48ZLt.gif)](https://imgtu.com/i/f48ZLt)
 
 
 
-5）去除非实质性的低频变化，保留高频变化部分
+5）去除非实质性的低频变化，保留高频变化部分。
 
 
 [![f48VsI.gif](https://z3.ax1x.com/2021/08/17/f48VsI.gif)](https://imgtu.com/i/f48VsI)
 
 
 
-6）制作变化幅度图
+6）制作变化幅度图，值得注意的是黄色的面积较大的图斑。
 
 [![f4JTdP.jpg](https://z3.ax1x.com/2021/08/17/f4JTdP.jpg)](https://imgtu.com/i/f4JTdP)
 
