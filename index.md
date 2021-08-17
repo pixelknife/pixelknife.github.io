@@ -13,9 +13,9 @@
 
 ## 2 遥感软件产品
 
-[像素刻刀(PixelKnife)软件](soft_pixelknife.html)是我们开发的软件工具，其目的是为了解决处理海量国产卫星数据的实际问题，根据二八原则，着重了突破最常用的核心功能，与通常的遥感商业软件相比有很大的技术优势。
+[像素刻刀(PixelKnife)软件](soft/soft_pixelknife.html)是我们开发的软件工具，其目的是为了解决处理海量国产卫星数据的实际问题，根据二八原则，着重了突破最常用的核心功能，与通常的遥感商业软件相比有很大的技术优势。
 
-[八爪鱼影像发布引擎](soft_pixelknife.html)是建立在JPEG2000大图像压缩技术基础上的，不用事先转投影、也不用事先切瓦片，就可以动态地发布大量大幅面的遥感影像产品。
+[八爪鱼影像发布引擎](soft/soft_pixelknife.html)是建立在JPEG2000大图像压缩技术基础上的，不用事先转投影、也不用事先切瓦片，就可以动态地发布大量大幅面的遥感影像产品。
 
 
 
@@ -25,9 +25,9 @@
 
 我们还提供近实时的集成化数据服务平台
 
-[长弓(Longbow)版准实时快视获取系统](platform_longbow.html)
+[长弓(Longbow)版准实时快视获取系统](platform/platform_longbow.html)
 
-[飞蛾(Moth)高分辨率近实时精准火点卫星监测系统](platform_moth.html)
+[飞蛾(Moth)高分辨率近实时精准火点卫星监测系统](platform/platform_moth.html)
 
 
 
@@ -36,12 +36,11 @@
 深入研究分析算法，在大量遥感卫星数据输入的基础上，开发出有高可靠性、有长期使用价值的专题数据产品。
 
 
+[火石(Flint)全球夜光产品](product/product_flint.html)
 
-[火石(Flint)全球夜光产品](product_flint.html)
+[沉香(Lignaloo)全球云分布统计产品](product/product_lignaloo.html)
 
-[沉香(Lignaloo)全球云分布统计产品](product_lignaloo.html)
-
-[天下无云(CloudlessWorld)遥感影像地图产品](product_cloudless_world.html)
+[天下无云(CloudlessWorld)遥感影像地图产品](product/product_cloudless_world.html)
 
 
 
@@ -53,9 +52,9 @@
 
 ## 6 应用方案
 
-[大区域制图](solution_imagemap.html)
+[大区域制图](solution/solution_imagemap.html)
 
-[军事侦察](solution_change.html)
+[军事侦察](solution/solution_change.html)
 
 城市两违
 
