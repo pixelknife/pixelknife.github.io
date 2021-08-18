@@ -2,6 +2,12 @@
 
 
 
+## 论文
+
+
+
+## 笔记
+
 [高光谱数据可视化](discuss\discuss_hsi_display.html)
 
 
