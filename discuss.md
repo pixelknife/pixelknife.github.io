@@ -8,9 +8,9 @@
 
 ## 笔记
 
-[高光谱数据可视化](discuss\discuss_hsi_display.html)
+[高光谱数据可视化](discuss/discuss_hsi_display.html)
 
-
+[资源卫星中心和空天院的遥感卫星资源比较](disscuss/disscuss_difference_cresda.html)
 
 ---
 
