@@ -16,10 +16,24 @@
 | 时效性   | 2小时处理上线供查询，但是一景数据很大，下载处理还需要额外几个小时 | 近实时上线，处理局部感兴趣区域不到1分钟就可以看到融合结果 |
 
 
-地面站的[长弓(LongBow)准实时快视获取系统](http://satsee.radi.ac.cn/cfdata/longbow/)
+
+[![fvCSYD.png](https://z3.ax1x.com/2021/08/21/fvCSYD.png)](https://imgtu.com/i/fvCSYD)
+
+资源中心2021年8月1日~20日的高分二号的查询结果
+
+
+
+同样的查询条件，在地面站的[长弓(LongBow)准实时快视获取系统](http://satsee.radi.ac.cn/cfdata/longbow/)中得到
+
+[![fvCap4.png](https://z3.ax1x.com/2021/08/21/fvCap4.png)](https://imgtu.com/i/fvCap4)
+
+
+
+
 
 
 ---
+
 
 **联系方式**
 
