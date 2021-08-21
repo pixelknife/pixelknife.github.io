@@ -11,7 +11,11 @@
 
 比如我们在广西做的业务，甲方除了研究报告以外，还想保存图像，但是由于没有专业技术人员和软件，所以拿到很大的图像却没有办法打开。我们就将大幅面的图像简单地往我们的八爪鱼系统上一放，就自动发布了，实现了基本的需要。
 
+
+
 ![](http://satsee.radi.ac.cn/cfdata/doc/octopus/octopus.jpg)
+
+
 
 http://satsee.radi.ac.cn:8080/guang/guang.aspx
 用户密码: demo/demo
