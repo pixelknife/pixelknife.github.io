@@ -12,6 +12,8 @@
 
 [资源卫星中心和空天院的遥感卫星资源比较](discuss/discuss_difference_cresda.html)
 
+[]
+
 ---
 
 

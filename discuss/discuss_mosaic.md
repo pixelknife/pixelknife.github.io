@@ -26,11 +26,26 @@ LANDSAT的数据集准备好，放到LANDSAT目录，制作成REGION大一些的
 
 landsat.tif
 
+
+
+GE上原始的Landsat2020
+
+[![hpFY90.jpg](https://z3.ax1x.com/2021/08/22/hpFY90.jpg)
+
+然后，去掉过度的的绿色
+
+[](https://imgtu.com/i/hpFY90)
+[![hpFt3V.jpg](https://z3.ax1x.com/2021/08/22/hpFt3V.jpg)](https://imgtu.com/i/hpFt3V)
+
+
+
 ## 2 缩略图
 
 通过VRT将输入的PATH的大小改成32像素整齐，然后用gdaladdo缩小1/32，形成缩略图。
 
 small.tif
+
+
 
 ## 3 标红
 
@@ -43,7 +58,13 @@ mark.tif
 通过matlab脚本，将标红区域的三个波段的均值方差调成一样。比较成果图，看看是否合适，也可以回到第3步，再调整标红区域。
 
 small_wb.tif
-out.tif
+
+比较
+
+[![hpk2in.jpg](https://z3.ax1x.com/2021/08/22/hpk2in.jpg)](https://imgtu.com/i/hpk2in)
+左边是Landsat对应区域，右边是高分卫星数据参考左边生成的。
+
+
 
 ## 5 全区曲线
 
@@ -51,11 +72,15 @@ out.tif
 
 small_wb_exp.tif
 
+
 ## 6 调色
 
 再通过阴影高光工具做一些调整，相当于把光场调整得更加均匀。这样更有利于高分辨率图像在暗区域得表现。
 
 small_wb_exp_ps.tif
+
+[![hpkRGq.jpg](https://z3.ax1x.com/2021/08/22/hpkRGq.jpg)](https://imgtu.com/i/hpkRGq)
+
 
 ## 7 应用到全分辨率
 
@@ -68,6 +93,10 @@ lin.tif
 在局部过亮过饱和的区域通过局部直方图调整，尽可能恢复一些纹理信息。
 
 enh.tif
+
+
+
+
 
 
 ---
