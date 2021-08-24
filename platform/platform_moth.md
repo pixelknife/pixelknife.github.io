@@ -26,7 +26,7 @@ Landsat7/8卫星的波段分布
 
 
 
-[![hCQMbn.png](https://z3.ax1x.com/2021/08/23/hCQMbn.png)
+![hCQMbn.png](https://z3.ax1x.com/2021/08/23/hCQMbn.png)
 
 
 
