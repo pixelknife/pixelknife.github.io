@@ -14,6 +14,10 @@
 
 [大幅面调色](discuss/discuss_mosaic.html)
 
+[夜光数据处理](discuss/discuss_nightlight.html)
+
+
+
 
 
 ---
