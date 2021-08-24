@@ -132,7 +132,8 @@ Suomi NPP 结构图
 
 　　 
 
-　　大家如果感兴趣，请自行浏览：
+　　大家如果感兴趣，请自行浏览：http://satsee.radi.ac.cn/cfdata/night_light1/index6.html
+
 　　
 
 
