@@ -10,8 +10,9 @@
 
 
 
-http://satsee.radi.ac.cn:8080/guang/guang.aspx
-用户密码: demo1/demo1
+[http://satsee.radi.ac.cn:8080/guang/guang.aspx](http://satsee.radi.ac.cn:8080/guang/guang.aspx)
+
+用户/密码: demo1/demo1
 
 
 
