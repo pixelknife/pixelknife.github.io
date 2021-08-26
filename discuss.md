@@ -14,7 +14,13 @@
 
 [大幅面调色](discuss/discuss_mosaic.html)
 
-[夜光数据处理](discuss/discuss_nightlight.html)
+[火石夜光产品](discuss/discuss_flint.html)
+
+[夜光变化检测](discuss/discuss_nightlight.html)
+
+[哨兵二号L2A产品的问题](discuss/discuss_sentinel2_L2A.html)
+
+[消除GF1B/C/D卫星的色块异常](discuss/discuss_section_color.md)
 
 
 
