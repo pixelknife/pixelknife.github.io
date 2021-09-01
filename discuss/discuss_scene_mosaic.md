@@ -10,25 +10,29 @@
 
 ## 2）制作成标准化的16位TIFF图像
 
-因为处理可能涉及很多软件，所以会对图像的一些性质有所变化
+因为处理可能涉及很多软件，所以会对图像的一些性质有所变化。比如图像内容的部分会不会出现0导致和周边透明色混淆？正射等操作的导致的重采样会不会导致图像最外围一线出现一条既不是0也不是正常图像内容的过渡黑线（如果直接用几景这样的图像来拼接就会看到这样的黑线）？
 
 这里的输入标准图像，有几个要点：
 
 * 设置透明色0, "-a_nodata 0"，必须保证图像内容中不存在0（可以在正射之前+1以确保没有0）
-* RGB三波段，把各个波段的描述明确定义。（如果有所差异，gdalbuildvrt无法准确运行）, "-co photometric=rgb -colorinterp red,green,blue"
+* RGB三波段，把各个波段的描述明确定义。（如果有所差异，gdalbuildvrt无法准确运行）, "-co photometric=rgb"
 * 将亮度空间调到0-65535，"-scale 0 1024 0 65536"
 * 使用瓦块，"-co tiled=yes"
-* 考虑使用一定压缩格式 "-co compress=lzw"，发现GDAL有时候无法读取PS生成的compress=deflate的格式，虽然deflate的压缩率确实更高一些。
+* 考虑使用一定压缩格式 "-co compress=deflate"，无损压缩中deflate的压缩率是最高的。
 * 使用bigtiff格式，”-co bigtiff=yes"
 
+光用GDAL现有的工具是不够的，我们开发了一个pkCopyNodata工具，将输入图像的外部NODATA=0提取出来，然后再往内推进一定像素（缺省10像素），把之前产生的非真正图像内容清理掉。
 
-命令行批处理（用较新版本呢的GDAL）样例：
 
-    MD RGB
+命令行批处理样例：
+
+    MD clean
     
-    FOR /F %I IN ('DIR GF*_PMS*.DAT /B') DO gdal_translate -a_nodata 0 -co photometric=rgb -colorinterp red,green,blue -scale 0 1024 0 65536 -co tiled=yes -co compress=lzw -co bigtiff=yes %I rgb\%~nI.TIF
+    FOR /F %I IN ('DIR GF*_PMS*.DAT /B') DO gdal_translate -of vrt -co photometric=rgb -scale 0 4096 0 65536 -b 3 -b 2 -b 1 %I %~nI.VRT
+    
+    FOR /F %I IN ('DIR GF*_PMS*.VRT /B') DO pkcopynodata -i %I -o clean\%~nI.TIF
 
-将ENVI正射后的.DAT文件转换成标准化的TIF图像，放到RGB子目录中
+将ENVI正射后的.DAT文件转换成标准化的TIF图像，放到CLEAN子目录中
 
 ## 3）同轨道的拼接
 
