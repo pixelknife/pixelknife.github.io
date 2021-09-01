@@ -14,7 +14,7 @@
 
 这里的输入标准图像，有几个要点：
 
-* 设置透明色0, "-a_nodata 0"，必须保证图像内容中不存在0（可以在正射之前+1保证没有0）
+* 设置透明色0, "-a_nodata 0"，必须保证图像内容中不存在0（可以在正射之前+1以确保没有0）
 * RGB三波段，把各个波段的描述明确定义。（如果有所差异，gdalbuildvrt无法准确运行）, "-co photometric=rgb -colorinterp red,green,blue"
 * 将亮度空间调到0-65535，"-scale 0 1024 0 65536"
 * 使用瓦块，"-co tiled=yes"
@@ -26,9 +26,9 @@
 
     MD RGB
     
-    FOR /F %I IN ('DIR GF*_PMS*.TIF /B') DO gdal_translate -a_nodata 0 -co photometric=rgb -colorinterp red,green,blue -scale 0 1024 0 65536 -co tiled=yes -co compress=lzw -co bigtiff=yes %I rgb\%I
+    FOR /F %I IN ('DIR GF*_PMS*.DAT /B') DO gdal_translate -a_nodata 0 -co photometric=rgb -colorinterp red,green,blue -scale 0 1024 0 65536 -co tiled=yes -co compress=lzw -co bigtiff=yes %I rgb\%~nI.TIF
 
-
+将ENVI正射后的.DAT文件转换成标准化的TIF图像，放到RGB子目录中
 
 ## 3）同轨道的拼接
 
