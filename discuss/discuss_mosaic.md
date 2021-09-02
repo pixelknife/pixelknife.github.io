@@ -15,18 +15,15 @@
 ## 1 准备
 准备目录
 
-* REGION
-    * PATH-GROUP
-        * PATH
-* LANDSAT
+* REGION （下面放正射好的分景的图像）
+    * CLEAN （重新切过边缘的分景的图像）
+        * PATH （同一个轨道的通过VRT拼接起来）
 
 
-LANDSAT的数据集准备好，放到LANDSAT目录，制作成REGION大一些的区域，投影和最后要镶嵌制图一样。
+
+全国LANDSAT的2020年的数据集准备好，放到一个固定的公共目录。
+
 我觉得原来的LANDSAT太绿了（三个波段的直方图差别很大），对于分辨率更高的图来说可能影响细节的辨识，所以还会在PS中做个调整。
-
-landsat.tif
-
-
 
 GE上原始的Landsat2020
 
@@ -53,6 +50,8 @@ photoshop中用红色铅笔将我们认为应该和LANDSAT底图一致的区域�
 
 mark.tif
 
+
+
 ## 4 白平衡
 
 通过matlab脚本，将标红区域的三个波段的均值方差调成一样。比较成果图，看看是否合适，也可以回到第3步，再调整标红区域。
@@ -66,6 +65,8 @@ small_wb.tif
 
 可以通过-scale的参数建立一个VRT文件，而不需要直接生成新图像文件。
 
+
+
 ## 5 全区曲线
 
 通过gamma变化（photoshop中的曲线拉伸工具），调整直方图,可以压缩高亮度区域的亮度空间范围，而拉伸暗区域的亮度空间范围。
@@ -73,6 +74,8 @@ small_wb.tif
 目前采用GDAL的-exponent 0.2建立VRT文件，而不需要直接生成新图像文件。
 
 small_wb_exp.tif
+
+
 
 
 ## 6 调色
@@ -88,11 +91,14 @@ small_wb_exp_ps.tif
 [![hpkRGq.jpg](https://z3.ax1x.com/2021/08/22/hpkRGq.jpg)](https://imgtu.com/i/hpkRGq)
 
 
+
 ## 7 应用到全分辨率
 
 前面的调色都是缩略图上，现在要迁移这个调色方案到全分辨率图像上。这是一个16位图像，超过255数值的部分就是过饱和的。
 
 lin.tif
+
+
 
 ## 8 局部去饱和
 
