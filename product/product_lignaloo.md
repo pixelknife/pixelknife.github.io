@@ -16,9 +16,9 @@
 
 **访问**
 
-通过webgis可以访问该数据集
+通过WEBGIS可以访问该数据集
 
-http://satsee.radi.ac.cn/cfdata/doc/cloudmap/
+![http://satsee.radi.ac.cn/cfdata/doc/cloudmap/](http://satsee.radi.ac.cn/cfdata/doc/cloudmap/)
 
 
 
@@ -32,3 +32,4 @@ http://satsee.radi.ac.cn/cfdata/doc/cloudmap/
 中国科学院空天信息创新研究院
 chenfu@aircas.ac.cn
 13811147935
+
