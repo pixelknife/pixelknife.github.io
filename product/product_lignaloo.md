@@ -16,9 +16,9 @@
 
 **访问**
 
-通过WEBGIS可以访问该数据集
+通过动态WEBGIS可以访问该数据集
 
-![http://satsee.radi.ac.cn/cfdata/doc/cloudmap/](http://satsee.radi.ac.cn/cfdata/doc/cloudmap/)
+[http://satsee.radi.ac.cn/cfdata/doc/cloudmap/](http://satsee.radi.ac.cn/cfdata/doc/cloudmap/)
 
 
 
