@@ -14,7 +14,24 @@
 
 ![](https://www.mdpi.com/remotesensing/remotesensing-13-03997/article_deploy/html/images/remotesensing-13-03997-g001-550.jpg)
 
-**访问**
+
+
+**数据集**
+
+数据按照日期分割成36期，每个月3期，每个月最后一期包含的日期不一定为10。（这个和论文中不同）
+
+这样也可以方便把连续3期合并成月度产品，也可以把连续9期合并成季度产品。
+
+每期图像是一个8位的压缩TIF图像，0~100是有效数值，255是NODATA。
+
+存放在百度网盘上提供长期下载：
+
+链接：https://pan.baidu.com/s/13d3qNB7BJAcBieobbv_CcQ 
+提取码：65qi
+
+
+
+**动态访问**
 
 通过动态WEBGIS可以访问该数据集
 
