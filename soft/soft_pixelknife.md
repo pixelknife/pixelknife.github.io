@@ -18,11 +18,11 @@
 
 ### 1.3 [缩略图调色](algorithm/algorithm_thumb.html)
 
-
 ### 1.4 [无饱和增强](algorithm/algorithm_deexpose.html)
 
-
 ### 1.5 [自动变化检测](algorithm/algorithm_change_detect.html)
+
+### 1.6  [纹理保真锐化](algorithm/algorithm_unsharp.html)
 
 
 
