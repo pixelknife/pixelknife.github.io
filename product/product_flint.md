@@ -10,7 +10,7 @@
 
 下面的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是原版的内容。
 
-<video controls="controls" loop="loop" autoplay="autoplay">
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="beijing.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
