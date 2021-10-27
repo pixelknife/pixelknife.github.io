@@ -8,7 +8,7 @@
 
 想了解它的来龙去脉可以点击我们在科普中国上刊登的[科普文章](http://www.kepuchina.cn/wiki/yzts/201805/t20180518_629897.shtml)。
 
-下面的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是原版的内容。
+下面的北京、天津地区的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是原版的内容。
 
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="beijing.mp4" type="video/mp4" />
@@ -16,11 +16,19 @@ Your browser does not support the video tag.
 </video>
 
 
-可以看到原版的月度产品两期之间存在波动，而且随着纬度提高，个别月份因为昼夜长短变化会导致没有数据。
+可以看到原版的月度产品两期之间普遍存在波动，而且随着纬度提高，因为昼夜长短变化会导致个别月份没有数据。
 
 Flint版在原版的基础上进一步加工，使月度之间基本数值保持高度稳定，月度之间的实质性变化因此可以更加明确、更加突出。在此基础上可以定制季度产品或者年度产品，这样相邻两期之间的变化更大，更容易识别。
 
 夜光变化在概念上分成小区域的突变和大区域的渐变，后者容易和观测条件（云的薄厚）产生的偏差混淆，需要更长时间的观测才能确定。
+
+下图印度新德里位于东西两个邦之间。这个年度时序表明印度的夜光波动较大，而且和邦的行政区划很一致。
+
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
+  <source src="newdelhi.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+
 
 
 
