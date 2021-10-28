@@ -9,11 +9,12 @@
 想了解它的来龙去脉可以点击我们在科普中国上刊登的[科普文章](http://www.kepuchina.cn/wiki/yzts/201805/t20180518_629897.shtml)。
 
 下面的北京、天津地区的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是原版的内容。
-
+<center>
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="beijing.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
+</center>
 
 
 可以看到原版的月度产品两期之间普遍存在波动，而且随着纬度提高，因为昼夜长短变化会导致个别月份没有数据。
