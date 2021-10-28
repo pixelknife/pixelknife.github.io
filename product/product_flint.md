@@ -22,14 +22,19 @@ Flint版在原版的基础上进一步加工，使月度之间基本数值保持
 
 夜光变化在概念上分成小区域的突变和大区域的渐变，后者容易和观测条件（云的薄厚）产生的偏差混淆，需要更长时间的观测才能确定。
 
-下图印度新德里位于东西两个邦之间。这个年度时序表明印度的夜光波动较大，而且和邦的行政区划很一致。
+印度新德里位于印度北部平原上东西两个邦之间。下面这个年度时序（取每年第12月为代表）表明印度的夜光波动较大，而且和邦的行政区划很一致。
+
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
+  <source src="newdelhi2.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+
+如果通过彩色增强来突出表达年度之间的变化。
 
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="newdelhi.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
-
-
 
 
 ---
