@@ -22,7 +22,7 @@
 
 [消除GF1B/C/D卫星的色块异常](discuss/discuss_section_color.md)
 
-
+[高分四号质量提升](discuss/discuss_gf4.md)
 
 
 
