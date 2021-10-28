@@ -25,18 +25,21 @@ Flint版在原版的基础上进一步加工，使月度之间基本数值保持
 
 印度新德里位于印度北部平原上东西两个邦之间。下面这个年度时序（取每年第12月为代表）表明印度的夜光波动较大，而且和邦的行政区划很一致。
 
+<center>
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="newdelhi2.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
+</center>
 
 可以通过彩色增强来突出表达年度之间的变化，橘色是增强，蓝色是减弱。
 
+<center>
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="newdelhi.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
-
+</center>
 
 ---
 
