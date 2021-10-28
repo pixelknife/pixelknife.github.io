@@ -4,7 +4,7 @@
 
 欢迎访问“火石”地球夜光产品！“火石（Flint）”是由中国科学院中国遥感卫星地面站陈甫团队研制的地球夜光产品数据集。
 
-它是在[美国科罗拉多矿业大学](https://eogdata.mines.edu/products/vnl/)发布的NPP卫星VIIRS传感器的夜光月度产品的基础上进一步加工而成。相对于原有的产品，火石提供更高的准确性、稳定性、易用性。它可以用来持续地跟踪地球表面的人类活动。
+它是在[美国科罗拉多矿业大学](https://eogdata.mines.edu/products/vnl/)发布的NPP卫星VIIRS传感器的夜光月度产品的基础上进一步加工而成。相对于原有的产品，火石(Flint)提供更高的准确性、稳定性、易用性。它可以用来持续地跟踪地球表面的人类活动。
 
 想了解它的来龙去脉可以点击我们在科普中国上刊登的[科普文章](http://www.kepuchina.cn/wiki/yzts/201805/t20180518_629897.shtml)。
 
@@ -30,7 +30,7 @@ Flint版在原版的基础上进一步加工，使月度之间基本数值保持
 Your browser does not support the video tag.
 </video>
 
-如果通过彩色增强来突出表达年度之间的变化。
+可以通过彩色增强来突出表达年度之间的变化，橘色是增强，蓝色是减弱。
 
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="newdelhi.mp4" type="video/mp4" />
