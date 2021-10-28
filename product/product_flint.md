@@ -8,7 +8,11 @@
 
 想了解它的来龙去脉可以点击我们在科普中国上刊登的[科普文章](http://www.kepuchina.cn/wiki/yzts/201805/t20180518_629897.shtml)。
 
+
+## 新产品的意义
+
 下面的北京、天津地区的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是原版的内容。
+
 <center>
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="beijing.mp4" type="video/mp4" />
@@ -21,9 +25,13 @@ Your browser does not support the video tag.
 
 Flint版在原版的基础上进一步加工，使月度之间基本数值保持高度稳定，月度之间的实质性变化因此可以更加明确、更加突出。在此基础上可以定制季度产品或者年度产品，这样相邻两期之间的变化更大，更容易识别。
 
+## 突变和渐变
+
 夜光变化在概念上分成小区域的突变和大区域的渐变，后者容易和观测条件（云的薄厚）产生的偏差混淆，需要更长时间的观测才能确定。
 
-印度新德里位于印度北部平原上东西两个邦之间。下面这个年度时序（取每年第12月为代表）表明印度的夜光波动较大，而且和邦的行政区划很一致。
+从上面中国的例子有很明显的小区域突变，但是很难看到大区域的渐变，而这在印度却非常明显。
+
+印度新德里位于印度北部平原上东西两个邦之间。下面这个年度时序（取每年第12月为代表）表明印度的夜光波动较大，而且和邦的行政区划很一致。我认为这和印度的电力生产和管理的能力有很大的关系。
 
 <center>
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
@@ -40,6 +48,8 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 </center>
+
+## 长周期变化
 
 中国及其周边2012-2020的夜光变化分布图。
 
