@@ -41,6 +41,11 @@ Your browser does not support the video tag.
 </video>
 </center>
 
+中国及其周边2012-2020的夜光变化分布图，可以看出从长周期来看，夜光和GDP的发展是有很强的相关性的。
+
+[![5bjH7n.jpg](https://z3.ax1x.com/2021/10/28/5bjH7n.jpg)](https://imgtu.com/i/5bjH7n)
+
+
 ---
 
 
