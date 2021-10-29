@@ -31,7 +31,8 @@
 [![5O7XH1.jpg](https://z3.ax1x.com/2021/10/29/5O7XH1.jpg)](https://imgtu.com/i/5O7XH1)
 ▲清晰度提升，并且加入近红外波段成分
 
-
+[![5OXXHH.jpg](https://z3.ax1x.com/2021/10/29/5OXXHH.jpg)](https://imgtu.com/i/5OXXHH)
+▲进一步调整，削弱大气的影响
 
 ---
 
