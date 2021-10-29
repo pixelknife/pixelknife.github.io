@@ -34,6 +34,12 @@
 [![5OXXHH.jpg](https://z3.ax1x.com/2021/10/29/5OXXHH.jpg)](https://imgtu.com/i/5OXXHH)
 ▲进一步调整，削弱大气的影响
 
+
+
+最后比较一下输入和最终的输出
+
+[![5OjoZQ.gif](https://z3.ax1x.com/2021/10/29/5OjoZQ.gif)](https://imgtu.com/i/5OjoZQ)
+
 ---
 
 **联系方式**
