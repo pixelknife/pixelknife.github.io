@@ -12,9 +12,7 @@
 
 云在地球-大气系统的能量和水分循环中起着重要作用，影响着自然界和人类社会的许多重要过程。然而，可用于高分辨率模式的细粒度和高精度全球云气候学数据非常少。在本文中，我们根据2001年至2016年的MOD09云罩产品制作了一份10天1公里分辨率的全球陆地云气候学（GLHCC）产品。对原始MOD09云遮罩的两项改进（短波红外和波段2/6比值阈值法）减少了被错误归类为云的雪、冰和明亮区域。初步云产品通过变分静止噪声去除器（VSNR）去除轨道伪影，并去除异常反照率区域，以生成最终云气候学数据。从3777个全球气象站收集的地面云观测直接验证了新产品。来自高级甚高分辨率辐射计（AVHRR）和MOD/MYD35的PATMOS-X作为GLHCC一致性检查的对比产品。评估结果表明，GLHCC显示出与地面站观测值、MOD/MYD35和PATMOS-X的强相关性。当地面观测值作为真值时，GLHCC和MOD/MYD35显示出比PATMOS-X更高的精度。在大多数选定的感兴趣区域，三者表现不同，GLHCC比MOD/MYD35和PATMOS-X更符合事实。GLHCC可以很好地代表过去16年的云分布，并将在自然和人类社会许多方面的细粒度需求中发挥重要作用。
 
-![](https://www.mdpi.com/remotesensing/remotesensing-13-03997/article_deploy/html/images/remotesensing-13-03997-g001-550.jpg)
-
-
+![](https://www.mdpi.com/remotesensing/remotesensing-13-03997/article_deploy/html/images/remotesensing-13-03997-g001.png)
 
 **数据集**
 
