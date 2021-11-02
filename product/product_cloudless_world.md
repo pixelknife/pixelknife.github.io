@@ -28,11 +28,14 @@
 
 [![5qkWQI.jpg](https://z3.ax1x.com/2021/10/28/5qkWQI.jpg)](https://imgtu.com/i/5qkWQI)
 
-可以浏览以下案例来体会一下
+可以浏览以下几个为客户制作的数据集案例来体会一下
+
+[黑龙江2米2021年版](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=47bc4e36-feff-4a0c-b03a-b0aa55a07864)
 
 [广东2米2021年版](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=8e0848ab-8540-4206-90c3-29a5c2752c91)
 
-[黑龙江2米2021年版](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=47bc4e36-feff-4a0c-b03a-b0aa55a07864)
+[广西2米2021年版](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d3a4ef8c-5958-4634-9089-a304a2db4b44)
+
 
 ---
 
