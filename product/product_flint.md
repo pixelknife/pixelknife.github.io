@@ -10,12 +10,16 @@
 
 ## 1 数据访问
 
-年度时序(2012-2020)，将亮度灰度图渲染为更加认可的黄色
+目前我们提供的是Flint2.0的产品（2021年出品），现在可以通过WebGIS提供部分查询和展示服务。
+
+A) 年度时序(2012-2020)，将亮度灰度图渲染为更加认可的黄色
+
 [http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/)
 
 [![I1Wh11.gif](https://z3.ax1x.com/2021/11/07/I1Wh11.gif)](https://imgtu.com/i/I1Wh11)
 
-年度变化时序(2013-2020)，橘色是变亮的区域，蓝色是变暗的区域，灰色是不变的区域，后面叠加了谷歌地球的底图作为参考。
+B) 年度变化时序(2013-2020)，橘色是变亮的区域，蓝色是变暗的区域，灰色是不变的区域，后面叠加了谷歌地球的底图作为参考。
+
 [http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/)
 
 [![I15I8H.gif](https://z3.ax1x.com/2021/11/07/I15I8H.gif)](https://imgtu.com/i/I15I8H)
