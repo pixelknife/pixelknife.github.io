@@ -8,8 +8,19 @@
 
 想了解它的来龙去脉可以点击我们在科普中国上刊登的[科普文章](http://www.kepuchina.cn/wiki/yzts/201805/t20180518_629897.shtml)。
 
+## 1 数据访问
 
-## 1 新产品的意义
+年度时序(2012-2020)，将亮度灰度图渲染为更加认可的黄色
+[http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/)
+
+[![I1Wh11.gif](https://z3.ax1x.com/2021/11/07/I1Wh11.gif)](https://imgtu.com/i/I1Wh11)
+
+年度变化时序(2013-2020)，橘色是变亮的区域，蓝色是变暗的区域，灰色是不变的区域，后面叠加了谷歌地球的底图作为参考。
+[http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/)
+
+[![I15I8H.gif](https://z3.ax1x.com/2021/11/07/I15I8H.gif)](https://imgtu.com/i/I15I8H)
+
+## 2 新产品的意义
 
 下面的北京、天津地区的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是原版的内容。
 
@@ -25,7 +36,7 @@ Your browser does not support the video tag.
 
 Flint版在原版的基础上进一步加工，使月度之间基本数值保持高度稳定，月度之间的实质性变化因此可以更加明确、更加突出。在此基础上可以定制季度产品或者年度产品，这样相邻两期之间的变化更大，更容易识别。
 
-## 2 突变和渐变
+## 3 突变和渐变
 
 夜光变化可以在概念上分成小区域的突变和大区域的渐变两种，后者容易和观测条件（气象条件）产生的非实质性偏差混淆，需要更长时间（超过气象影响周期）的观测才能确定。所以定量化的分析还是很有挑战性。
 
@@ -50,7 +61,7 @@ Your browser does not support the video tag.
 </center>
 
 
-## 3 长周期变化
+## 4 长周期变化
 
 中国及其周边2012-2020的夜光变化分布图。
 
