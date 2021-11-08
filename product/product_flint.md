@@ -17,7 +17,7 @@ A) 年度时序(2012-2020)，这里将亮度灰度图渲染为认可度更高的
 [http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/)
 
 <center>
-<video width="800" controls="controls" loop="loop" autoplay="autoplay">
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="flint_yellow.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
@@ -28,7 +28,7 @@ B) 年度变化时序(2013-2020)，橘色是变亮的区域，蓝色是变暗的
 [http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/)
 
 <center>
-<video width="800" controls="controls" loop="loop" autoplay="autoplay">
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
   <source src="flint_chg.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
