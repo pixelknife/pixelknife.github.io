@@ -10,25 +10,35 @@
 
 ## 1 数据访问
 
-目前我们提供的是Flint2.0的产品（2021年出品），现在可以通过WebGIS提供部分查询和展示服务。
+目前我们最新提供的是Flint2.0 beta版的产品（2021年出品），现在可以通过WebGIS提供中国周边区域的查询和展示服务。
 
-A) 年度时序(2012-2020)，将亮度灰度图渲染为更加认可的黄色
+A) 年度时序(2012-2020)，这里将亮度灰度图渲染为认可度更高的黄色
 
 [http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_sharp_yellow/)
 
-[![I1Wh11.gif](https://z3.ax1x.com/2021/11/07/I1Wh11.gif)](https://imgtu.com/i/I1Wh11)
+<center>
+<video width="800" controls="controls" loop="loop" autoplay="autoplay">
+  <source src="flint_yellow.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+</center>
 
 B) 年度变化时序(2013-2020)，橘色是变亮的区域，蓝色是变暗的区域，灰色是不变的区域，后面叠加了谷歌地球的底图作为参考。
 
 [http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/](http://satsee.radi.ac.cn/cfdata/doc/flint/year_chg/)
 
-[![I15I8H.gif](https://z3.ax1x.com/2021/11/07/I15I8H.gif)](https://imgtu.com/i/I15I8H)
+<center>
+<video width="800" controls="controls" loop="loop" autoplay="autoplay">
+  <source src="flint_chg.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+</center>
 
 
 
-## 2 新产品的意义
+## 2 Flint的意义
 
-下面的北京、天津地区的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是原版的内容。
+下面的北京、天津地区的动画表达了Flint月度产品和原版的差异，上半部分是Flint制作的月度变化时序，下半部分是美国原版的内容。
 
 <center>
 <video width="640" controls="controls" loop="loop" autoplay="autoplay">
@@ -38,7 +48,7 @@ Your browser does not support the video tag.
 </center>
 
 
-可以看到原版的月度产品两期之间普遍存在波动，而且随着纬度提高，因为昼夜长短变化会导致个别月份没有数据。
+可以看到原版的月度产品两期之间普遍存在波动，而且随着纬度提高（大致上海以北），因为昼夜长短变化会导致个别月份没有数据。
 
 Flint版在原版的基础上进一步加工，使月度之间基本数值保持高度稳定，月度之间的实质性变化因此可以更加明确、更加突出。在此基础上可以定制季度产品或者年度产品，这样相邻两期之间的变化更大，更容易识别。
 
