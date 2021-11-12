@@ -30,6 +30,10 @@
 
 这样的处理，并没有增加图像的信息，但是对于一些纹理细节有所突出，对于图像的可视效果有所提高。
 
+访问下面的链接，可以看一下5米的一景图的效果
+
+[http://satsee.radi.ac.cn:8080/guang/guang.html?uid=f13d8c48-af87-4b06-b8d7-24461f77bb55](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=f13d8c48-af87-4b06-b8d7-24461f77bb55)
+
 考虑可以在5米尺度上制作全国的时序影像地图(之前我们制作了[2020年10米36帧北京时序](../product/product_cloudless_world.html))，既没有源数据的成本，也能够满足普通网友了解地表动态变化的基本需要。
 
 
