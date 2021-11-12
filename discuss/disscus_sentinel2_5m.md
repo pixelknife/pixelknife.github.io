@@ -7,11 +7,23 @@
 [![IBMaw9.jpg](https://z3.ax1x.com/2021/11/12/IBMaw9.jpg)](https://imgtu.com/i/IBMaw9)
 ▲10米源图
 
+
+
 [![IBMdoR.jpg](https://z3.ax1x.com/2021/11/12/IBMdoR.jpg)](https://imgtu.com/i/IBMdoR)
 ▲在Photoshop中放大200%
 
+
+
 [![IBM0F1.jpg](https://z3.ax1x.com/2021/11/12/IBM0F1.jpg)](https://imgtu.com/i/IBM0F1)
 ▲经过像素刻刀软件增强处理后的5米图
+
+
+
+[![IBNajI.gif](https://z3.ax1x.com/2021/11/12/IBNajI.gif)](https://imgtu.com/i/IBNajI)
+
+▲5米处理前后动图比较
+
+
 
 这样的处理，并没有增加图像的信息，但是对于一些纹理细节有所突出，对于图像的可视效果有所提高。
 
