@@ -11,6 +11,9 @@ GF7的全色传感器，从0.6米到0.3米
 
 [![IrXfOS.jpg](https://z3.ax1x.com/2021/11/13/IrXfOS.jpg)](https://imgtu.com/i/IrXfOS)
 
+Planet的Skysat小卫星，从0.5米到0.25米
+
+[![Iy1OhQ.jpg](https://z3.ax1x.com/2021/11/13/Iy1OhQ.jpg)](https://imgtu.com/i/Iy1OhQ)
 
 Planet的Scope小卫星，从3米到1.5米
 
