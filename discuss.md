@@ -26,6 +26,9 @@
 
 [哨兵二号5米制图](discuss/discuss_sentinel2_5m.html)
 
+[视觉超分辨率](discuss/discuss_zoomin.html)
+
+
 ---
 
 
