@@ -8,10 +8,21 @@
 下面的案例中，第一行是原始分辨率的图像，第二行是在Photoshop中将图像放大一倍后的模糊图像，第三行是通过我们的视觉超分辨率工具制作出来的分辨率提高一倍的图像。
 
 
+Planet的Scope小卫星，从3米到1.5米
 
 [![Ir77Jf.jpg](https://z3.ax1x.com/2021/11/13/Ir77Jf.jpg)](https://imgtu.com/i/Ir77Jf)
 
+哨兵二号，从10米到5米
+
+[![IrqAaR.jpg](https://z3.ax1x.com/2021/11/13/IrqAaR.jpg)](https://imgtu.com/i/IrqAaR)
+
+NPP的夜光产品，从500米到250米
+
 [![Ir7TFP.jpg](https://z3.ax1x.com/2021/11/13/Ir7TFP.jpg)](https://imgtu.com/i/Ir7TFP)
+
+这里增强的程度是可以用参数调节的，目前用的是比较强的数值。
+
+
 
 ---
 
