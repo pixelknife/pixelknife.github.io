@@ -11,6 +11,10 @@
 
 [![I4UfPg.jpg](https://z3.ax1x.com/2021/11/17/I4UfPg.jpg)](https://imgtu.com/i/I4UfPg)
 
+▼ 高分一号B（全色2米多光谱8米），PAN从模糊的2米到清晰的1米
+
+[![I50QEt.jpg](https://z3.ax1x.com/2021/11/17/I50QEt.jpg)](https://imgtu.com/i/I50QEt)
+
 ▼ 高分六号（全色2米多光谱8米），融合结果从模糊的2米到清晰的1米
 
 [![I4GdeS.jpg](https://z3.ax1x.com/2021/11/17/I4GdeS.jpg)](https://imgtu.com/i/I4GdeS)
