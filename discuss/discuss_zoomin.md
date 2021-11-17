@@ -5,39 +5,18 @@
 
 我们提供的工具可以在全分辨率的基础上再放大一个层次，将视觉分辨率提高一倍，以满足观众的视觉需求。这并没有实质性增加图像内在包含的信息量，但是确实可以增加直接投送给观众的信息量，这在制图以及目视判图的时候还是很有用的。
 
-下面的案例中，第一行是原始分辨率的图像，第二行是在Photoshop中将图像放大一倍后的模糊图像，第三行是通过我们的视觉超分辨率工具制作出来的分辨率提高一倍的图像。
-
-GF7的全色传感器，从0.6米到0.3米
-
-[![IrXfOS.jpg](https://z3.ax1x.com/2021/11/13/IrXfOS.jpg)](https://imgtu.com/i/IrXfOS)
+下面的案例中，第一行是在Photoshop中将图像放大一倍后的模糊图像，第二行是通过我们的视觉超分辨率工具制作出来的分辨率提高一倍的图像。
 
 
+高分六号（全色2米多光谱8米），融合结果从模糊的2米到清晰的1米
 
-融合后的G7，从0.6米到0.3米，实用效果
-
-
-
-[![I62nIO.jpg](https://z3.ax1x.com/2021/11/14/I62nIO.jpg)](https://imgtu.com/i/I62nIO)
+[![I4GdeS.jpg](https://z3.ax1x.com/2021/11/17/I4GdeS.jpg)](https://imgtu.com/i/I4GdeS)
 
 
+哨兵二号，可见光部分为10米，增强到5米
 
-Planet的Skysat小卫星，从0.5米到0.25米
+[![I4Gwdg.jpg](https://z3.ax1x.com/2021/11/17/I4Gwdg.jpg)](https://imgtu.com/i/I4Gwdg)
 
-[![Iy1OhQ.jpg](https://z3.ax1x.com/2021/11/13/Iy1OhQ.jpg)](https://imgtu.com/i/Iy1OhQ)
-
-Planet的Scope小卫星，从3米到1.5米
-
-[![Ir77Jf.jpg](https://z3.ax1x.com/2021/11/13/Ir77Jf.jpg)](https://imgtu.com/i/Ir77Jf)
-
-
-哨兵二号，从10米到5米
-
-[![IrqAaR.jpg](https://z3.ax1x.com/2021/11/13/IrqAaR.jpg)](https://imgtu.com/i/IrqAaR)
-
-
-NPP的夜光产品，从500米到250米
-
-[![Ir7TFP.jpg](https://z3.ax1x.com/2021/11/13/Ir7TFP.jpg)](https://imgtu.com/i/Ir7TFP)
 
 
 这里增强的程度是可以用参数调节的。这个调节的程度取决于源图像的质量，如果源图像比较模糊就可以用较大的参数。还有一点值得注意，如果源图像已经经过了图像压缩、解压缩或者MTF增强以后就不一定适用这个超分辨率，因为图像可能已经引入了一些额外的噪声，后续如果继续增强，可能会把噪声进一步放大，影响视觉效果。
