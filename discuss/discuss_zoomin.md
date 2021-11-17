@@ -7,6 +7,10 @@
 
 下面的案例中，第一行是在Photoshop中将图像放大一倍后的模糊图像作为参考，第二行是通过我们的视觉超分辨率工具制作出来的分辨率提高一倍的图像。
 
+▼SKYSAT，模糊的0.5米到清晰的0.25米
+
+[![IIurkR.jpg](https://z3.ax1x.com/2021/11/17/IIurkR.jpg)](https://imgtu.com/i/IIurkR)
+
 ▼ 高分七号（全色0.6米多光谱2.4米），融合结果从模糊的0.6米到清晰的0.3米
 
 [![I4UfPg.jpg](https://z3.ax1x.com/2021/11/17/I4UfPg.jpg)](https://imgtu.com/i/I4UfPg)
@@ -24,6 +28,9 @@
 
 [![I4Gwdg.jpg](https://z3.ax1x.com/2021/11/17/I4Gwdg.jpg)](https://imgtu.com/i/I4Gwdg)
 
+▼SUOMI NPP，夜光月度产品，从500米增强到250米
+
+[![IIQl0e.jpg](https://z3.ax1x.com/2021/11/17/IIQl0e.jpg)](https://imgtu.com/i/IIQl0e)
 
 
 这里增强的程度是可以用参数调节的。这个调节的程度取决于源图像的质量，如果源图像比较模糊就可以用较大的参数。还有一点值得注意，如果源图像已经经过了图像压缩、解压缩或者MTF增强以后就不一定适用这个超分辨率，因为图像可能已经引入了一些额外的噪声，后续如果继续增强，可能会把噪声进一步放大，影响视觉效果。
