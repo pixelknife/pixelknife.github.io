@@ -2,38 +2,17 @@
 
 欧空局的哨兵二号卫星是目前使用率最高的公开数据源，它的两个卫星可以使得访问时间频率达到5天一次，几何定位非常准确，而且完备的波段组合也能够制作排除大气干扰的辐射校正产品。但是它的空间分辨率最高（可见光和近红外波段）是10米，对于影像地图来说还是有所不足。
 
-我们通过一系列图像处理方法，将原来10米的做一定的提升，将制图分辨率提高到5米。
+我们通过一系列图像处理方法，将原来10米的空间分辨率做一定的提升，将制图分辨率提高到5米。
 
-
-[![IBMdoR.jpg](https://z3.ax1x.com/2021/11/12/IBMdoR.jpg)](https://imgtu.com/i/IBMdoR)
-
-▲10米源图像在Photoshop中放大200%以后
-
-
-
-[![IBM0F1.jpg](https://z3.ax1x.com/2021/11/12/IBM0F1.jpg)](https://imgtu.com/i/IBM0F1)
-
-▲经过像素刻刀软件增强处理后的5米图
-
-
-
-[![IBNajI.gif](https://z3.ax1x.com/2021/11/12/IBNajI.gif)](https://imgtu.com/i/IBNajI)
-
-▲处理前后动图比较
-
-
+[![I4Gwdg.jpg](https://z3.ax1x.com/2021/11/17/I4Gwdg.jpg)](https://imgtu.com/i/I4Gwdg)
 
 这样的处理，并没有增加图像的信息，但是对于一些纹理细节有所突出，对于图像的可视效果有所提高。
 
-访问下面的链接，可以看一下5米的一景图（日本福岛）的效果
+访问下面的链接，可以看一下5米的一景图（北京2021-11-13）的效果
 
-[http://satsee.radi.ac.cn:8080/guang/guang.html?uid=f13d8c48-af87-4b06-b8d7-24461f77bb55](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=f13d8c48-af87-4b06-b8d7-24461f77bb55)
+[http://satsee.radi.ac.cn:8080/guang/guang.html?uid=0d378c3a-4f41-4c65-9d86-abb6d1cf2326](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=0d378c3a-4f41-4c65-9d86-abb6d1cf2326)
 
-
-
-
-
-考虑可以在5米尺度上制作全国的时序影像地图(之前我们制作了[2020年10米36帧北京时序](../product/product_cloudless_world.html))，既没有源数据的成本，也能够满足普通网友了解地表动态变化的基本需要。
+可以在5米尺度上制作全国的时序影像地图(之前我们制作了[2020年10米36帧北京时序](../product/product_cloudless_world.html))，既没有源数据的成本，也能够满足普通网友了解地表动态变化的基本需要。
 
 
 
