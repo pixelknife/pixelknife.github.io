@@ -30,6 +30,8 @@
 
 [火石夜光产品将分辨率倍增至250米](discuss/discuss_nightlight_250m.html)
 
+[高分六号PMS和WFV融合成8波段2米合成产品](discuss/discuss_gf6_wfv_2m.html)
+
 
 ---
 
