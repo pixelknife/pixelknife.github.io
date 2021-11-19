@@ -28,6 +28,8 @@
 
 [视觉超分辨率](discuss/discuss_zoomin.html)
 
+[火石夜光产品将分辨率倍增至250米](discuss/discuss_nightlight_250m.html)
+
 
 ---
 
