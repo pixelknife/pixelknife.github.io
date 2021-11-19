@@ -4,19 +4,24 @@
 
 高分六号的宽幅相机WFV能以星下点16米的分辨率一次扫描800多公里的幅宽收集8波段的波谱信号，是世界上独一无二的传感器，可以用于大范围的农业普查。
 
-![高分六号 321可见光组合](https://upload-images.jianshu.io/upload_images/13082864-dbed78879071641c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[![IH80q1.jpg](https://z3.ax1x.com/2021/11/19/IH80q1.jpg)](https://imgtu.com/i/IH80q1)
+▲ 红-绿-蓝波段组合
 
 在我们肉眼可以观测到的可见光组合下，难以看清植物的生长情况。而下图使用高分六号特有的红边近红外波段就大不一样了。
 
-![高分六号 465红边近红外组合](https://upload-images.jianshu.io/upload_images/13082864-c02ee658dec4f741.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[![IH8ra6.jpg](https://z3.ax1x.com/2021/11/19/IH8ra6.jpg)](https://imgtu.com/i/IH8ra6)
+▲ 红外-红边-红波段组合
 
 但是美中不足的是，16米的分辨率还是不能看清农场内部的情况。
 
 我们通过像素刻刀(PixelKnife)软件将WFV和高分六号上另外一个PMS相机（2米4波段100公里幅宽）相融合，就能形成2米8波段的像素刻刀增强版(PKE)数据集。
 
-![局部放大](https://upload-images.jianshu.io/upload_images/13082864-790c9ed33bbee450.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[![IH8wrR.jpg](https://z3.ax1x.com/2021/11/19/IH8wrR.jpg)](https://imgtu.com/i/IH8wrR)
+▲ 融合之前，16米，8波段
 
-![融合后的结果](https://upload-images.jianshu.io/upload_images/13082864-2ca44287fd5fc22f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+[![IH8DVx.jpg](https://z3.ax1x.com/2021/11/19/IH8DVx.jpg)](https://imgtu.com/i/IH8DVx)
+▲ 融合之后，2米，8波段
 
 通过这样的产品将纹理信息增强了8倍，就能更清楚的看清大圆盘内部的作物生长情况，分析内部不均匀的原因何在，有助于农业设施的维护和农产品质量的提高。
 
