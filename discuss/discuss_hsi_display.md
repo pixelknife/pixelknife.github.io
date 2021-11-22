@@ -49,6 +49,26 @@
 
 
 
+[![Iv7oDI.jpg](https://z3.ax1x.com/2021/11/22/Iv7oDI.jpg)](https://imgtu.com/i/Iv7oDI)
+
+
+
+两景成果样品可以在我们的FTP中下载
+
+
+
+FTP：
+
+服务器： satsee.ceode.ac.cn账号： cfdata密码： cfdata123
+
+目录： temp/oubite/
+
+个别FTP客户端可能不好使，如果连接不上，推荐FTPRUSH下载。
+
+
+
+
+
 ---
 
 **联系方式**
