@@ -60,8 +60,11 @@
 
 FTP：
 
-服务器： satsee.ceode.ac.cn账号： cfdata密码： cfdata123
+服务器： satsee.ceode.ac.cn
+账号： cfdata
+密码： cfdata123
 目录： temp/oubite/
+
 个别FTP客户端可能不好使，如果连接不上，推荐FTPRUSH下载。
 
 
