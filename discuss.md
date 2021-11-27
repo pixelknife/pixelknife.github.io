@@ -32,6 +32,9 @@
 
 [高分六号PMS和WFV融合成8波段2米合成产品](discuss/discuss_gf6_wfv_2m.html)
 
+[高分六号宽幅超分３倍到５米](discuss/discuss_gf6_wfv_5m.html)
+
+[ZY1E高光谱VN超分3倍到10米](discuss/discuss_zy1e_hsi.html)
 
 ---
 
