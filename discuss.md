@@ -36,6 +36,9 @@
 
 [ZY1E高光谱VN超分3倍到10米](discuss/discuss_zy1e_hsi.html)
 
+[ZY1E高光谱VN和SW的精细配准](discuss/discuss_zy1e_hsi_reg.html)
+
+
 ---
 
 
