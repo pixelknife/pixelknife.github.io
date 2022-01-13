@@ -40,6 +40,8 @@
 
 [沉香(Lignaloo)全球云分布统计产品](product/product_lignaloo.html)
 
+[葵花(SunFlower)中国太阳能潜力分布产品](product/product_sunflower.html)
+
 [天下无云(CloudlessWorld)遥感影像地图产品](product/product_cloudless_world.html)
 
 
