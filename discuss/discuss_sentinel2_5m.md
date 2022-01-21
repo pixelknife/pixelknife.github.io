@@ -4,6 +4,18 @@
 
 我们通过一系列图像处理方法，将原来10米/20米的空间分辨率做一定的提升，将制图分辨率提高到一倍，形成5米9波段的数据集。
 
+比较处理前后的波段组合图像
+
+[![7WwEi4.jpg](https://s4.ax1x.com/2022/01/21/7WwEi4.jpg)](https://imgtu.com/i/7WwEi4)
+▲波段组合321，可见光
+
+[![7WwiZT.jpg](https://s4.ax1x.com/2022/01/21/7WwiZT.jpg)](https://imgtu.com/i/7WwiZT)
+▲波段组合543，近红外-红边-红
+
+[![7WwCLV.jpg](https://s4.ax1x.com/2022/01/21/7WwCLV.jpg)](https://imgtu.com/i/7WwCLV)
+▲波段组合987，短波红外-近红外
+
+比较处理前后的每个波段
 
 [![7WwVJJ.jpg](https://s4.ax1x.com/2022/01/21/7WwVJJ.jpg)](https://imgtu.com/i/7WwVJJ)
 ▲波段1（原波段2）
@@ -31,15 +43,6 @@
 
 [![7WwkoF.jpg](https://s4.ax1x.com/2022/01/21/7WwkoF.jpg)](https://imgtu.com/i/7WwkoF)
 ▲波段9（原波段12）
-
-[![7WwEi4.jpg](https://s4.ax1x.com/2022/01/21/7WwEi4.jpg)](https://imgtu.com/i/7WwEi4)
-▲波段组合321，可见光
-
-[![7WwiZT.jpg](https://s4.ax1x.com/2022/01/21/7WwiZT.jpg)](https://imgtu.com/i/7WwiZT)
-▲波段组合543，近红外-红边-红
-
-[![7WwCLV.jpg](https://s4.ax1x.com/2022/01/21/7WwCLV.jpg)](https://imgtu.com/i/7WwCLV)
-▲波段组合987，短波红外-近红外
 
 
 这样的处理，并没有增加图像的信息，但是对于一些纹理细节有所突出，对于图像的可视效果有所提高。
