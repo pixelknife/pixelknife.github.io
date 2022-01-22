@@ -48,15 +48,11 @@
 
 一个完整景的处理结果可以在下面的FTP上下载(文件8GB)
 
-FTP
-
-服务器： satapp.radi.ac.cn
-
-账号： cfdata
-
-密码： cfdata123
-
-目录： temp/sr_s2/
+    FTP
+    服务器： satapp.radi.ac.cn
+    账号： cfdata
+    密码： cfdata123
+    目录： temp/sr_s2/
 
 
 
