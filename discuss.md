@@ -10,6 +10,8 @@
 
 [高光谱数据的压缩与扩张表达](discuss/discuss_hsi_display.html)
 
+[欧比特高光谱超分辨率](discuss/discuss_oubite.html)
+
 [资源卫星中心和空天院的遥感卫星资源比较](discuss/discuss_difference_cresda.html)
 
 [大幅面调色](discuss/discuss_mosaic.html)
