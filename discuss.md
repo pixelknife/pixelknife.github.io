@@ -40,6 +40,8 @@
 
 [ZY1E高光谱VN和SW的精细配准](discuss/discuss_zy1e_hsi_reg.html)
 
+[Planet卫星的最新数据质量改进](discuss/discuss_superdove.html)
+
 
 ---
 
