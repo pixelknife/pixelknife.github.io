@@ -46,6 +46,7 @@
 
 [全球每日1.5米8波段产品](discuss/discuss_superdove_x2.html)
 
+[高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
 
 ---

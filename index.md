@@ -35,7 +35,6 @@
 
 深入研究分析算法，在大量遥感卫星数据输入的基础上，开发出有高可靠性、有长期使用价值的专题数据产品。
 
-
 [火石(Flint)全球夜光产品](product/product_flint.html)
 
 [沉香(Lignaloo)全球云分布统计产品](product/product_lignaloo.html)
