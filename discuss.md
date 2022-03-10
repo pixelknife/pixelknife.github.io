@@ -40,6 +40,8 @@
 
 [ZY1E高光谱VN和SW的精细配准](discuss/discuss_zy1e_hsi_reg.html)
 
+[ZY1E全色多光谱的精细配准](discuss/discuss_zy1e_pms.html)
+
 [Planet卫星的最新数据质量改进](discuss/discuss_superdove.html)
 
 [全球每日1.5米8波段产品](discuss/discuss_superdove_x2.html)
