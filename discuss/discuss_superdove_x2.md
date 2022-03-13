@@ -7,6 +7,10 @@ Planet公司的新一代SuperDove卫星目前已经全面工作，能够提供3�
 
 在此基础上，我们通过算法对其纹理信息做进一步提升，成为1.5米8波段的增值产品。
 
+这里提供了两景案例
+
+1）个北京大兴机场
+
 ▼ 可见光RGB（6-4-2波段组合）比较
 
 [![bcKJy9.jpg](https://s1.ax1x.com/2022/03/08/bcKJy9.jpg)](https://imgtu.com/i/bcKJy9)
@@ -19,13 +23,28 @@ Planet公司的新一代SuperDove卫星目前已经全面工作，能够提供3�
 
 [![bcZMm6.jpg](https://s1.ax1x.com/2022/03/08/bcZMm6.jpg)](https://imgtu.com/i/bcZMm6)
 
+
+2）埃及喷灌农业区
+
+▼ 可见光RGB（6-4-2波段组合）比较
+
+[![bqbOMj.jpg](https://s1.ax1x.com/2022/03/13/bqbOMj.jpg)](https://imgtu.com/i/bqbOMj)
+
+▼ 近红外-红边-红（8-7-6波段组合）比较
+
+[![bqbqzQ.jpg](https://s1.ax1x.com/2022/03/13/bqbqzQ.jpg)](https://imgtu.com/i/bqbqzQ)
+
+▼ 逐个波段比较
+
+[![bqbXss.jpg](https://s1.ax1x.com/2022/03/13/bqbXss.jpg)](https://imgtu.com/i/bqbXss)
+
+
 这样的空间(1.5米)、时间(每日)、波谱(8波段)数据集是地物动态分析的利器，特别在农业、环境方面有很好的应用前景。
 
-提供一个北京大兴机场的完整数据集作为参考
 
-FTP
+样本数据可以在FTP上下载（推荐FTP客户端FTPRUSH）
 
-服务器：  satapp.radi.ac.cn
+FTP服务器：  satapp.radi.ac.cn
 
 账号：  cfdata
 
