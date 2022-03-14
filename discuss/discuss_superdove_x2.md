@@ -7,9 +7,9 @@ Planet公司的新一代SuperDove卫星目前已经全面工作，能够提供3�
 
 在此基础上，我们通过算法对其纹理信息做进一步提升，成为1.5米8波段的增值产品。
 
-这里提供了两景案例
+这里提供了几景案例
 
-1）个北京大兴机场
+**1）个北京大兴机场**
 
 ▼ 可见光RGB（6-4-2波段组合）比较
 
@@ -24,7 +24,7 @@ Planet公司的新一代SuperDove卫星目前已经全面工作，能够提供3�
 [![bcZMm6.jpg](https://s1.ax1x.com/2022/03/08/bcZMm6.jpg)](https://imgtu.com/i/bcZMm6)
 
 
-2）埃及喷灌农业区
+**2）埃及喷灌农业区**
 
 ▼ 可见光RGB（6-4-2波段组合）比较
 
@@ -37,6 +37,21 @@ Planet公司的新一代SuperDove卫星目前已经全面工作，能够提供3�
 ▼ 逐个波段比较
 
 [![bqbXss.jpg](https://s1.ax1x.com/2022/03/13/bqbXss.jpg)](https://imgtu.com/i/bqbXss)
+
+
+**3）白洋淀湖区**
+
+▼ 可见光RGB（6-4-2波段组合）比较
+
+[![bjlT0S.jpg](https://s1.ax1x.com/2022/03/15/bjlT0S.jpg)](https://imgtu.com/i/bjlT0S)
+
+▼ 近红外-红边-红（8-7-6波段组合）比较
+
+[![bjl7Tg.jpg](https://s1.ax1x.com/2022/03/15/bjl7Tg.jpg)](https://imgtu.com/i/bjl7Tg)
+
+▼ 逐个波段比较
+
+[![bjlbkQ.jpg](https://s1.ax1x.com/2022/03/15/bjlbkQ.jpg)](https://imgtu.com/i/bjlbkQ)
 
 
 这样的空间(1.5米)、时间(每日)、波谱(8波段)数据集是地物动态分析的利器，特别在农业、环境方面有很好的应用前景。
