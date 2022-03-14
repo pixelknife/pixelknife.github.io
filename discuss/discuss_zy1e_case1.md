@@ -14,7 +14,7 @@ ZY1E的高光谱数据由可见光近红外VN、短波红外SW两个传感器组
 
 
 
-[![bjGyjI.jpg](https://s1.ax1x.com/2022/03/15/bjGyjI.jpg)](https://imgtu.com/i/bjGyjI)
+[![bjN1Vx.md.jpg](https://s1.ax1x.com/2022/03/15/bjN1Vx.md.jpg)](https://imgtu.com/i/bjN1Vx)
 
 
 
