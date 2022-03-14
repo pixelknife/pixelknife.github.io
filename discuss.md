@@ -48,7 +48,7 @@
 
 [高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
-[国产卫星最高分辨率影像](discuss/discuss_bj3.html)
+[制作最高分辨率遥感卫星影像0.15米)](discuss/discuss_bj3.html)
 
 
 ---
