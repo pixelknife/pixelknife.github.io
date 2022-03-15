@@ -12,9 +12,17 @@ ZY1E的高光谱数据由可见光近红外VN、短波红外SW两个传感器组
 
 然后使用超分辨率增强技术提高2倍分辨率，从30米分辨率的数据集变成15米。提升效果如下图所示。
 
+▼ 30米的高光谱立方体
 
+[![bjaxPK.jpg](https://s1.ax1x.com/2022/03/15/bjaxPK.jpg)](https://imgtu.com/i/bjaxPK)
 
-[![bjN1Vx.md.jpg](https://s1.ax1x.com/2022/03/15/bjN1Vx.md.jpg)](https://imgtu.com/i/bjN1Vx)
+▼ 15米的高光谱立方体
+
+[![bjaz8O.jpg](https://s1.ax1x.com/2022/03/15/bjaz8O.jpg)](https://imgtu.com/i/bjaz8O)
+
+▼ 可见光组合（32-20-12）的比较
+
+[![bjNzo6.md.jpg](https://s1.ax1x.com/2022/03/15/bjNzo6.md.jpg)](https://imgtu.com/i/bjNzo6)
 
 
 
