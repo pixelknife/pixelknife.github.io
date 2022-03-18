@@ -50,7 +50,9 @@
 
 [高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
-[制作最高分辨率遥感卫星影像0.15米)](discuss/discuss_bj3.html)
+[制作最高分辨率遥感卫星影像0.15米](discuss/discuss_bj3.html)
+
+[飞蛾(Moth)火点探测平台新增加了乌克兰地区](discuss/discuss_moth_ukl.html)
 
 
 ---
