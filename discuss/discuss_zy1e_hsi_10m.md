@@ -16,7 +16,7 @@ ZY02D(ZY1E)该系列卫星在设计的时候，有意考虑了多个传感器，
 
 分别先处理MS内部和HSI内部的偏差（只有移动关系），再处理PAN和MS之间的偏差，最后处理PMS和HSI之间的偏差，后两者有分辨率上的差异。
 
-我们之前陆续对[( PAN -- (MS1 - MS2) ) ](discuss_zy1e_psm.html)以及[(HSI_VN - HSI_SW)](discuss_zy1e_hsi_reg.html)处理都做过介绍，在这两者都完成的基础上可以做最后一步即(PMS --- HSI) 。这两个因为是完全独立的传感器，所以偏差应该是最大的。
+我们之前陆续对[( PAN -- (MS1 - MS2) ) ](discuss_zy1e_pms.html)以及[(HSI_VN - HSI_SW)](discuss_zy1e_hsi_reg.html)处理都做过介绍，在这两者都完成的基础上可以做最后一步即(PMS --- HSI) 。这两个因为是完全独立的传感器，所以偏差应该是最大的。
 
 
 
