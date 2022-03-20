@@ -54,6 +54,8 @@
 
 [飞蛾(Moth)火点探测平台新增加了乌克兰地区](discuss/discuss_moth_ukl.html)
 
+[CBERS4融合](discuss/discuss_cbers4..html)
+
 
 ---
 
