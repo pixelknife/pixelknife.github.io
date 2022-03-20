@@ -58,6 +58,8 @@
 
 [CBERS4融合](discuss/discuss_cbers4.html)
 
+[环境二号CCD超分辨率](discuss/discuss_hj2_ccd.html)
+
 
 ---
 
