@@ -18,38 +18,25 @@ ZY02D(ZY1E)该系列卫星在设计的时候，有意考虑了多个传感器，
 
 我们之前陆续对[( PAN -- (MS1 - MS2) ) ](discuss_zy1e_pms.html)以及[(HSI_VN - HSI_SW)](discuss_zy1e_hsi_reg.html)处理都做过介绍，在这两者都完成的基础上可以做最后一步即(PMS --- HSI) 。这两个因为是完全独立的传感器，所以偏差应该是最大的。
 
-
-
 ▼ 根据卫星参数直接叠放
 
 [![qVLlR0.gif](https://s1.ax1x.com/2022/03/20/qVLlR0.gif)](https://imgtu.com/i/qVLlR0)
-
-
 
 ▼ 通过像素刻刀软件精细配准
 
 [![qVLQGq.gif](https://s1.ax1x.com/2022/03/20/qVLQGq.gif)](https://imgtu.com/i/qVLQGq)
 
-
-
 在几何配准完成后就可以将HSI-VN的30米76波段与MS的10米8波段融合起来。
-
-
 
 ▼ 融合后的结果和HSI对应波段比较，分辨率提高了3倍，而辐射值没有变化。
 
 [![qZ9QJg.gif](https://s1.ax1x.com/2022/03/20/qZ9QJg.gif)](https://imgtu.com/i/qZ9QJg)
 
-
-
 ▼ 融合后的结果和MS波谱相近的波段比较，纹理没有变化，辐射值已经用HSI对应波段的予以置换。
 
 [![qZ9lWQ.gif](https://s1.ax1x.com/2022/03/20/qZ9lWQ.gif)](https://imgtu.com/i/qZ9lWQ)
 
-
-
 这样的结果保持了HSI的辐射值、引入了MS的高空间分辨率，形成10米76波段的高光谱高空间分辨率产品。
-
 
 
 ---
