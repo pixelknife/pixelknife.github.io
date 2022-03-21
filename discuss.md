@@ -58,8 +58,9 @@
 
 [CBERS4融合](discuss/discuss_cbers4.html)
 
-[环境二号CCD超分辨率](discuss/discuss_hj2_ccd.html)
+[环境减灾二号宽幅相机的超分辨率处理](discuss/discuss_hj2_ccd.html)
 
+[环境减灾二号高光谱数据集的高精度处理](discuss/discuss_hj2_hsi.html)
 
 ---
 
