@@ -62,6 +62,8 @@
 
 [环境减灾二号高光谱数据集的高精度处理](discuss/discuss_hj2_hsi.html)
 
+[环境减灾二号红外数据集的高精度处理](discuss/discuss_hj2_irs.html)
+
 ---
 
 
