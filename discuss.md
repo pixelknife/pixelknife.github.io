@@ -50,6 +50,8 @@
 
 [全球每日1.5米8波段产品](discuss/discuss_superdove_x2.html)
 
+[pkDove的2米8波段产品与高分数据比较](discuss/discuss_pkdove_gf6.html)
+
 [高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
 [制作最高分辨率遥感卫星影像0.15米](discuss/discuss_bj3.html)
