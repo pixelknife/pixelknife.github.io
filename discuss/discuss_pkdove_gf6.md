@@ -3,10 +3,12 @@
 我们开发的pkDove工具将3米8波段的SuperDove卫星数据提升到2米8波段。这样可以和中国常用的高分1/6星座的2米数据集相互补充协作。
 
 ▼ Planet原图（上）pkDove增强版（下）
-[![qyQD0O.jpg](https://s1.ax1x.com/2022/03/29/qyQD0O.jpg)](https://imgtu.com/i/qyQD0O)
+
+[![qf8CXF.jpg](https://s1.ax1x.com/2022/03/31/qf8CXF.jpg)](https://imgtu.com/i/qf8CXF)
 
 ▼ 高分6号同区域的融合后结果
-[![qyQBnK.jpg](https://s1.ax1x.com/2022/03/29/qyQBnK.jpg)](https://imgtu.com/i/qyQBnK)
+
+[![qf896U.jpg](https://s1.ax1x.com/2022/03/31/qf896U.jpg)](https://imgtu.com/i/qf896U)
 
 
 
