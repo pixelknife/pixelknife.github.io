@@ -58,6 +58,8 @@
 
 [飞蛾(Moth)火点探测平台新增加了乌克兰地区](discuss/discuss_moth_ukl.html)
 
+[乌克兰战火专题数据库](discuss/discuss_ukl_fire.html)
+
 [CBERS4融合](discuss/discuss_cbers4.html)
 
 [环境减灾二号宽幅相机的超分辨率处理](discuss/discuss_hj2_ccd.html)
