@@ -70,8 +70,9 @@
 
 [环境减灾二号红外数据集的高精度处理](discuss/discuss_hj2_irs.html)
 
-[XXXSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
+[SDGSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
 
+[SDGSAT的MII传感器片间辐射差异的修复](discuss/discuss_sdgsat_mii_section.html)
 
 ---
 
