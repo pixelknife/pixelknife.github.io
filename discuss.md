@@ -13,10 +13,6 @@
 
 [大幅面调色](discuss/discuss_mosaic.html)
 
-[火石夜光产品](discuss/discuss_flint.html)
-
-[夜光变化检测](discuss/discuss_nightlight.html)
-
 [哨兵二号L2A产品的问题](discuss/discuss_sentinel2_L2A.html)
 
 [消除GF1B/C/D卫星的色块异常](discuss/discuss_section_color.md)
@@ -27,18 +23,22 @@
 
 [视觉超分辨率](discuss/discuss_zoomin.html)
 
-[火石夜光产品将分辨率倍增至250米](discuss/discuss_nightlight_250m.html)
-
 [高分六号PMS和WFV融合成8波段2米合成产品](discuss/discuss_gf6_wfv_2m.html)
 
 [高分六号宽幅超分３倍到５米](discuss/discuss_gf6_wfv_5m.html)
-
-[高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
 [制作最高分辨率遥感卫星影像0.15米](discuss/discuss_bj3.html)
 
 [CBERS4融合](discuss/discuss_cbers4.html)
 
+
+### 夜光
+
+[火石夜光产品](discuss/discuss_flint.html)
+
+[夜光变化检测](discuss/discuss_nightlight.html)
+
+[火石夜光产品将分辨率倍增至250米](discuss/discuss_nightlight_250m.html)
 
 ### 火点
 
@@ -88,6 +88,10 @@
 [SDGSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
 
 [SDGSAT的MII传感器片间辐射差异的修复](discuss/discuss_sdgsat_mii_section.html)
+
+[SDGSAT多光谱(MII)去饱和工具](discuss/discuss_sdgsat_mii_deexpose.html)
+
+[SDGSAT的高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
 ---
 
