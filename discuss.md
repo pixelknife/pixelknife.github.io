@@ -8,9 +8,6 @@
 
 ## 笔记
 
-[高光谱数据的压缩与扩张表达](discuss/discuss_hsi_display.html)
-
-[欧比特高光谱超分辨率](discuss/discuss_oubite.html)
 
 [资源卫星中心和空天院的遥感卫星资源比较](discuss/discuss_difference_cresda.html)
 
@@ -36,6 +33,25 @@
 
 [高分六号宽幅超分３倍到５米](discuss/discuss_gf6_wfv_5m.html)
 
+[高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
+
+[制作最高分辨率遥感卫星影像0.15米](discuss/discuss_bj3.html)
+
+[CBERS4融合](discuss/discuss_cbers4.html)
+
+
+### 火点
+
+[飞蛾(Moth)火点探测平台新增加了乌克兰地区](discuss/discuss_moth_ukl.html)
+
+[乌克兰战火专题数据库](discuss/discuss_ukl_fire.html)
+
+### 高光谱
+
+[高光谱数据的压缩与扩张表达](discuss/discuss_hsi_display.html)
+
+[欧比特高光谱超分辨率](discuss/discuss_oubite.html)
+
 [ZY1E高光谱VN超分3倍到10米](discuss/discuss_zy1e_hsi.html)
 
 [ZY1E高光谱VN和SW的精细配准](discuss/discuss_zy1e_hsi_reg.html)
@@ -46,6 +62,9 @@
 
 [10米76波段高分辨率高光谱产品](discuss/discuss_zy1e_hsi_10m.html)
 
+
+### Planet
+
 [Planet卫星的最新数据质量改进](discuss/discuss_superdove.html)
 
 [全球每日1.5米8波段产品](discuss/discuss_superdove_x2.html)
@@ -54,21 +73,17 @@
 
 [pkDove的案例集锦](discuss/discuss_pkdove_samples.html)
 
-[高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
-[制作最高分辨率遥感卫星影像0.15米](discuss/discuss_bj3.html)
-
-[飞蛾(Moth)火点探测平台新增加了乌克兰地区](discuss/discuss_moth_ukl.html)
-
-[乌克兰战火专题数据库](discuss/discuss_ukl_fire.html)
-
-[CBERS4融合](discuss/discuss_cbers4.html)
+### HJ2
 
 [环境减灾二号宽幅相机的超分辨率处理](discuss/discuss_hj2_ccd.html)
 
 [环境减灾二号高光谱数据集的高精度处理](discuss/discuss_hj2_hsi.html)
 
 [环境减灾二号红外数据集的高精度处理](discuss/discuss_hj2_irs.html)
+
+
+### SDGSAT
 
 [SDGSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
 
