@@ -87,7 +87,7 @@
 
 [SDGSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
 
-[SDGSAT的TIS传感器相对辐射校正](discuss/discuss_sdgsat_tis.html)
+[SDGSAT的TIS传感器相对辐射校正](discuss/discuss_sdgsat_tis_yizi.html)
 
 [SDGSAT的MII传感器片间辐射差异的修复](discuss/discuss_sdgsat_mii_section.html)
 
