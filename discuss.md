@@ -83,17 +83,10 @@
 [环境减灾二号红外数据集的高精度处理](discuss/discuss_hj2_irs.html)
 
 
-### SDGSAT
+### [SDGSAT](discuss_sdgsat.html)
 
-[SDGSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
+[SDGSAT子页面](discuss_sdgsat.html)
 
-[SDGSAT的TIS传感器相对辐射校正](discuss/discuss_sdgsat_tis_yizi.html)
-
-[SDGSAT的MII传感器片间辐射差异的修复](discuss/discuss_sdgsat_mii_section.html)
-
-[SDGSAT多光谱(MII)去饱和工具](discuss/discuss_sdgsat_mii_deexpose.html)
-
-[SDGSAT的高分辨率高时间频率地表夜光产品](discuss/discuss_sdgsat_giu.html)
 
 ---
 
