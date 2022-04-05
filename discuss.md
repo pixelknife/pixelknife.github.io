@@ -85,8 +85,6 @@
 
 ### [SDGSAT](discuss_sdgsat.html)
 
-[SDGSAT子页面](discuss_sdgsat.html)
-
 
 ---
 
