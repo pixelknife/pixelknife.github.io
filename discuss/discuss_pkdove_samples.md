@@ -10,7 +10,6 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 3）2米输出文件相对来说文件大小不会增加太多，信息量也是充分的。
 
-
 [![bce7a8.jpg](https://s1.ax1x.com/2022/03/08/bce7a8.jpg)](https://imgtu.com/i/bce7a8)
 ▲ SuperDove、Sentinel2的波谱关系
 
@@ -29,6 +28,9 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [![LSw6SS.jpg](https://s1.ax1x.com/2022/04/07/LSw6SS.jpg)](https://imgtu.com/i/LSw6SS)
 ▲ 美国夏威夷珍珠港
+
+[![LSXqw4.jpg](https://s1.ax1x.com/2022/04/07/LSXqw4.jpg)](https://imgtu.com/i/LSXqw4)
+▲ 美国飞机坟墓
 
 [![LSwcQg.jpg](https://s1.ax1x.com/2022/04/07/LSwcQg.jpg)](https://imgtu.com/i/LSwcQg)
 ▲ 上海江南造船厂
