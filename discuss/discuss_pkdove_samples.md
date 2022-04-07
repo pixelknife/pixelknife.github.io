@@ -23,6 +23,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 
 
+
 [![LSwwdI.jpg](https://s1.ax1x.com/2022/04/07/LSwwdI.jpg)](https://imgtu.com/i/LSwwdI)
 ▲ 美国加州圣迭戈海军基地
 
@@ -43,6 +44,15 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [![LSwgyQ.jpg](https://s1.ax1x.com/2022/04/07/LSwgyQ.jpg)](https://imgtu.com/i/LSwgyQ)
 ▲ 台北圆山风景区
+
+[![LpFrqI.jpg](https://s1.ax1x.com/2022/04/08/LpFrqI.jpg)](https://imgtu.com/i/LpFrqI)
+▲ 洞庭湖生态
+
+[![LpFDsA.jpg](https://s1.ax1x.com/2022/04/08/LpFDsA.jpg)](https://imgtu.com/i/LpFDsA)
+▲ 海南海花岛
+
+[![LpkVQH.jpg](https://s1.ax1x.com/2022/04/08/LpkVQH.jpg)](https://imgtu.com/i/LpkVQH)
+▲ 广西钦州湾生态
 
 [![LSwrJf.jpg](https://s1.ax1x.com/2022/04/07/LSwrJf.jpg)](https://imgtu.com/i/LSwrJf)
 ▲ 桂林漓江风景区
