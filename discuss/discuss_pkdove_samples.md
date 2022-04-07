@@ -14,6 +14,8 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 我们用pkDove处理了一系列的Planet分发的整景数据产品来检验产品。因为Planet星座是由100多颗卫星组成的，所以各个卫星的成像质量差异还是比较大的，图像的模糊（散焦）程度也不同，因此我们会对整景图像的中间部分做一个测试来确定选择强弱两级超分参数（命令行中锐化参数5或者6）来处理图像，通常使用更强参数的处理结果图像上噪声可能就会更明显一些。
 
+
+
 [![LSwwdI.jpg](https://s1.ax1x.com/2022/04/07/LSwwdI.jpg)](https://imgtu.com/i/LSwwdI)
 ▲ 美国加州圣迭戈海军基地
 
@@ -56,11 +58,11 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [![q4B8l4.jpg](https://s1.ax1x.com/2022/04/01/q4B8l4.jpg)](https://imgtu.com/i/q4B8l4)
 
-FTP服务器：  satapp.radi.ac.cn
-账号：  cfdata
-密码：  cfdata123
-
-目录：  temp/pkdove/
+    FTP服务器：  satapp.radi.ac.cn
+    账号：  cfdata
+    密码：  cfdata123
+    
+    目录：  temp/pkdove/
 
 个别FTP客户端可能不好使，如果连接不上，推荐FTPRUSH下载。
 
