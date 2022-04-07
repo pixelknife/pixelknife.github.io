@@ -6,43 +6,13 @@
 
 比较处理前后的波段组合图像
 
-[![7WwEi4.jpg](https://s4.ax1x.com/2022/01/21/7WwEi4.jpg)](https://imgtu.com/i/7WwEi4)
+[![LSFpFO.jpg](https://s1.ax1x.com/2022/04/07/LSFpFO.jpg)](https://imgtu.com/i/LSFpFO)
 ▲波段组合321，可见光
-
-[![7WwiZT.jpg](https://s4.ax1x.com/2022/01/21/7WwiZT.jpg)](https://imgtu.com/i/7WwiZT)
-▲波段组合543，近红外-红边-红
-
-[![7WwCLV.jpg](https://s4.ax1x.com/2022/01/21/7WwCLV.jpg)](https://imgtu.com/i/7WwCLV)
-▲波段组合987，短波红外-近红外
 
 比较处理前后的每个波段
 
-[![7WwVJJ.jpg](https://s4.ax1x.com/2022/01/21/7WwVJJ.jpg)](https://imgtu.com/i/7WwVJJ)
-▲波段1（原波段2）
-
-[![7WwZW9.jpg](https://s4.ax1x.com/2022/01/21/7WwZW9.jpg)](https://imgtu.com/i/7WwZW9)
-▲波段2（原波段3）
-
-[![7WwnQ1.jpg](https://s4.ax1x.com/2022/01/21/7WwnQ1.jpg)](https://imgtu.com/i/7WwnQ1)
-▲波段3（原波段4）
-
-[![7WwezR.jpg](https://s4.ax1x.com/2022/01/21/7WwezR.jpg)](https://imgtu.com/i/7WwezR)
-▲波段4（原波段5）
-
-[![7Wwusx.jpg](https://s4.ax1x.com/2022/01/21/7Wwusx.jpg)](https://imgtu.com/i/7Wwusx)
-▲波段5（原波段6）
-
-[![7WwQeK.jpg](https://s4.ax1x.com/2022/01/21/7WwQeK.jpg)](https://imgtu.com/i/7WwQeK)
-▲波段6（原波段7）
-
-[![7WwldO.jpg](https://s4.ax1x.com/2022/01/21/7WwldO.jpg)](https://imgtu.com/i/7WwldO)
-▲波段7（原波段8）
-
-[![7WwFdU.jpg](https://s4.ax1x.com/2022/01/21/7WwFdU.jpg)](https://imgtu.com/i/7WwFdU)
-▲波段8（原波段11）
-
-[![7WwkoF.jpg](https://s4.ax1x.com/2022/01/21/7WwkoF.jpg)](https://imgtu.com/i/7WwkoF)
-▲波段9（原波段12）
+[![LSFllj.jpg](https://s1.ax1x.com/2022/04/07/LSFllj.jpg)](https://imgtu.com/i/LSFllj)
+▲各个波段比较
 
 这样的处理，并没有实质性增加图像的信息，但是对于一些纹理细节有所突出，对于图像的可视效果有所提高。
 
