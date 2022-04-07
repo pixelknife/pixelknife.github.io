@@ -12,17 +12,49 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 上图左边是Planet分发的产品，其中1、3、5波段和2、4、6波段形成锯齿状的起伏，这是很不正常的，右侧是pkDove处理后的，不仅图像分辨率增强了，而且波谱数值也正常了。
 
-
-
 我们用pkDove处理了一系列的Planet分发的整景数据产品来检验产品。因为Planet星座是由100多颗卫星组成的，所以各个卫星的成像质量差异还是比较大的，图像的模糊（散焦）程度也不同，因此我们会对整景图像的中间部分做一个测试来确定选择强弱两级超分参数（命令行中锐化参数5或者6）来处理图像，通常使用更强参数的处理结果图像上噪声可能就会更明显一些。
 
+[![LSwwdI.jpg](https://s1.ax1x.com/2022/04/07/LSwwdI.jpg)](https://imgtu.com/i/LSwwdI)
+▲ 美国加州圣迭戈海军基地
 
+[![LSw6SS.jpg](https://s1.ax1x.com/2022/04/07/LSw6SS.jpg)](https://imgtu.com/i/LSw6SS)
+▲ 美国夏威夷珍珠港
 
-[![q4B8l4.jpg](https://s1.ax1x.com/2022/04/01/q4B8l4.jpg)](https://imgtu.com/i/q4B8l4)
+[![LSwcQg.jpg](https://s1.ax1x.com/2022/04/07/LSwcQg.jpg)](https://imgtu.com/i/LSwcQg)
+▲ 上海江南造船厂
+
+[![LSwDFP.jpg](https://s1.ax1x.com/2022/04/07/LSwDFP.jpg)](https://imgtu.com/i/LSwDFP)
+▲ 广州白云机场
+
+[![LSw0ot.jpg](https://s1.ax1x.com/2022/04/07/LSw0ot.jpg)](https://imgtu.com/i/LSw0ot)
+▲ 西藏拉萨布达拉宫
+
+[![LSwgyQ.jpg](https://s1.ax1x.com/2022/04/07/LSwgyQ.jpg)](https://imgtu.com/i/LSwgyQ)
+▲ 台北圆山风景区
+
+[![LSwrJf.jpg](https://s1.ax1x.com/2022/04/07/LSwrJf.jpg)](https://imgtu.com/i/LSwrJf)
+▲ 桂林漓江风景区
+
+[![LSwsW8.jpg](https://s1.ax1x.com/2022/04/07/LSwsW8.jpg)](https://imgtu.com/i/LSwsW8)
+▲ 江苏油菜花
+
+[![LSaa1e.jpg](https://s1.ax1x.com/2022/04/07/LSaa1e.jpg)](https://imgtu.com/i/LSaa1e)
+▲ 福建宁德三都澳养殖场
+
+[![LSwfwn.jpg](https://s1.ax1x.com/2022/04/07/LSwfwn.jpg)](https://imgtu.com/i/LSwfwn)
+▲ 重庆嘉陵江口
+
+[![LSw2Lj.jpg](https://s1.ax1x.com/2022/04/07/LSw2Lj.jpg)](https://imgtu.com/i/LSw2Lj)
+▲ 长沙橘子洲
+
+[![LSwWes.jpg](https://s1.ax1x.com/2022/04/07/LSwWes.jpg)](https://imgtu.com/i/LSwWes)
+▲ 大理火烧迹地
 
 
 
 可以通过FTP工具下载这些样例景
+
+[![q4B8l4.jpg](https://s1.ax1x.com/2022/04/01/q4B8l4.jpg)](https://imgtu.com/i/q4B8l4)
 
 FTP服务器：  satapp.radi.ac.cn
 账号：  cfdata
