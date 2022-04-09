@@ -2,7 +2,7 @@
 
 SDGSAT卫星拥有多光谱MII、热红外TIS、微光GIU三个传感器。遥感图像处理需要分析各种卫星平台、以及传感器的问题，有针对性地设计软件工具来改善数据质量，最后制作出符合地物特性以及人类认知的影像。
 
-这里汇集了我对SDGSAT各传感器的问题做的一些研究工作。
+这里汇集了我对SDGSAT各传感器的问题做的一些研究工作，为制作高质量卫星影像提供支持。
 
 ## 多光谱MII
 
@@ -18,7 +18,7 @@ SDGSAT卫星拥有多光谱MII、热红外TIS、微光GIU三个传感器。遥�
 
 [SDGSAT的TIS传感器相对辐射校正](discuss/discuss_sdgsat_tis_yizi.html)
 
-[SDGSAT卫星TIS和MII精细匹配](discuss/discuss_sdgsat_tis_mii_regi.html)
+[SDGSAT卫星TIS和MII精细匹配](discuss/discuss_sdgsat_tis_mii_reg.html)
 
 ## 微光GIU
 
