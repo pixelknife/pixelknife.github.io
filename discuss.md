@@ -1,12 +1,8 @@
 # 研究和讨论
 
-
-
 ## 1 笔记
 
-
 ### [1.1 Planet系列](discuss_planet.html)
-
 
 ### [1.2 SDGSAT系列](discuss_sdgsat.html)
 
@@ -56,7 +52,7 @@
 
 [哨兵二号5米制图](discuss/discuss_sentinel2_5m.html)
 
-### 1.8 高分四号
+### 1.9 高分四号
 
 [高分四号质量提升](discuss/discuss_gf4.md)
 
@@ -69,7 +65,6 @@
 [大幅面调色](discuss/discuss_mosaic.html)
 
 [消除GF1B/C/D卫星的色块异常](discuss/discuss_section_color.md)
-
 
 [视觉超分辨率](discuss/discuss_zoomin.html)
 
