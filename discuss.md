@@ -63,15 +63,6 @@
 [10米76波段高分辨率高光谱产品](discuss/discuss_zy1e_hsi_10m.html)
 
 
-### Planet
-
-[Planet卫星的最新数据质量改进](discuss/discuss_superdove.html)
-
-[全球每日1.5米8波段产品](discuss/discuss_superdove_x2.html)
-
-[pkDove的2米8波段产品与高分数据比较](discuss/discuss_pkdove_gf6.html)
-
-[pkDove的案例集锦](discuss/discuss_pkdove_samples.html)
 
 
 ### HJ2
@@ -83,7 +74,12 @@
 [环境减灾二号红外数据集的高精度处理](discuss/discuss_hj2_irs.html)
 
 
-### [SDGSAT](discuss_sdgsat.html)
+### [Planet系列](discuss_planet.html)
+
+
+### [SDGSAT系列](discuss_sdgsat.html)
+
+
 
 
 ---
