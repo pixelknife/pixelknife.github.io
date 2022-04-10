@@ -56,7 +56,13 @@
 
 [哨兵二号5米制图](discuss/discuss_sentinel2_5m.html)
 
-### 1.9 其他
+### 1.8 高分四号
+
+[高分四号质量提升](discuss/discuss_gf4.md)
+
+[高分四号纹理增强](discuss/discuss_gf4_enh.md)
+
+### 1.10 其他
 
 [资源卫星中心和空天院的遥感卫星资源比较](discuss/discuss_difference_cresda.html)
 
@@ -64,7 +70,6 @@
 
 [消除GF1B/C/D卫星的色块异常](discuss/discuss_section_color.md)
 
-[高分四号质量提升](discuss/discuss_gf4.md)
 
 [视觉超分辨率](discuss/discuss_zoomin.html)
 
