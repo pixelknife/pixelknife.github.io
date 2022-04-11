@@ -57,6 +57,9 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 [![LSwrJf.jpg](https://s1.ax1x.com/2022/04/07/LSwrJf.jpg)](https://imgtu.com/i/LSwrJf)
 ▲ 桂林漓江风景区
 
+[![LZFjte.jpg](https://s1.ax1x.com/2022/04/11/LZFjte.jpg)](https://imgtu.com/i/LZFjte)
+▲ 广西崇左农村
+
 [![LSwsW8.jpg](https://s1.ax1x.com/2022/04/07/LSwsW8.jpg)](https://imgtu.com/i/LSwsW8)
 ▲ 江苏油菜花
 
