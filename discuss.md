@@ -40,6 +40,8 @@
 
 [火石夜光产品将分辨率倍增至250米](discuss/discuss_nightlight_250m.html)
 
+[卫星告诉你：西欧的白左政治家正在主动向普京送人头](discuss/discuss_nightlight_europe.html)
+
 ### 1. 7 火点
 
 [飞蛾(Moth)火点探测平台新增加了乌克兰地区](discuss/discuss_moth_ukl.html)
