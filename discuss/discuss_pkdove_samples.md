@@ -75,6 +75,11 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 [![LSwWes.jpg](https://s1.ax1x.com/2022/04/07/LSwWes.jpg)](https://imgtu.com/i/LSwWes)
 ▲ 大理火烧迹地
 
+[![L3EepR.jpg](https://s1.ax1x.com/2022/04/14/L3EepR.jpg)](https://imgtu.com/i/L3EepR)
+▲ 上海洋山港
+
+[![L3EVh9.jpg](https://s1.ax1x.com/2022/04/14/L3EVh9.jpg)](https://imgtu.com/i/L3EVh9)
+▲ 永暑礁
 
 
 可以通过FTP工具下载这些样例景
