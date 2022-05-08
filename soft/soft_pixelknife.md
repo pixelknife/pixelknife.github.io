@@ -50,6 +50,7 @@ GF2： 813秒
 
 DEMO版和正式版的差别在于DEMO版上生成的图像中有水印痕迹。
 
+[下载和使用](https://www.zybuluo.com/novachen/note/426294)
 
 
 
