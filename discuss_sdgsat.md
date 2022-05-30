@@ -16,6 +16,8 @@ SDGSAT卫星拥有多光谱MII、热红外TIS、微光GIU三个传感器。遥�
 
 [SDGSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
 
+[SDGSAT-TIS的L4产品时相之间的几何偏差](discuss/discuss_sdgsat_tis_l4_geo.html)
+
 [SDGSAT的TIS传感器相对辐射校正](discuss/discuss_sdgsat_tis_yizi.html)
 
 [SDGSAT卫星TIS和MII精细匹配](discuss/discuss_sdgsat_tis_mii_reg.html)
