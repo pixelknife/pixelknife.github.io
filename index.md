@@ -43,7 +43,7 @@
 
 [天下无云(CloudlessWorld)遥感影像地图产品](product/product_cloudless_world.html)
 
-[谛听(EarthDetector)时序变化监测产品](product/product_earth_detector.htm)
+[谛听(EarthDetector)时序变化监测产品](product/product_earth_detector.html)
 
 
 
@@ -52,22 +52,7 @@
 [卫星明信片](picture.html)是和社会新闻相关的卫星图像产品，给公众提供高时效性的空间信息支持，也展示了遥感卫星和人们日常生活之间的紧密联系。
 
 
-
-## 6 应用方案
-
-[大区域制图](solution/solution_imagemap.html)
-
-[军事侦察](solution/solution_change.html)
-
-城市两违
-
-河道四乱
-
-保护区管理
-
-
-
-## 7 研究讨论
+## 6 研究讨论
 
 [研究与讨论板块](discuss.html)汇集了研究工作中的短篇评论、以及发表论文的中文简介。
 
