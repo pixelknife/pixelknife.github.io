@@ -45,6 +45,8 @@
 
 [谛听(EarthDetector)时序变化监测产品](product/product_earth_detector.html)
 
+[谛听(EarthDetector)雷达时序变化监测产品](product/product_earth_detector_sar.html)
+
 
 
 ## 5 卫星明信片
