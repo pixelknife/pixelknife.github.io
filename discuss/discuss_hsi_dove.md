@@ -12,7 +12,7 @@ ZY1E考虑到这点，在卫星上同时包含一个PMS相机（2.5米PAN+10米8
 
 下面的比较，左侧是30米的原图，右侧是融合后的5米产品。
 
-![cmplist.jpg](https://s2.loli.net/2022/06/15/FnlkQw4XoaZVR62.jpg)
+![cmplist.jpg](https://s2.loli.net/2022/06/15/CKNh2w9cT4RQHOk.jpg)
 
 ---
 
