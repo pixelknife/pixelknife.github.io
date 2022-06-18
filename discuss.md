@@ -56,6 +56,8 @@
 
 [哨兵二号L2A产品的问题](discuss/discuss_sentinel2_L2A.html)
 
+[哨兵二号9波段10米融合产品](discuss/discuss_sentinel2_9bands10m.html)
+
 [哨兵二号5米制图](discuss/discuss_sentinel2_5m.html)
 
 ### 1.9 高分四号
