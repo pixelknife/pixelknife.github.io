@@ -58,6 +58,8 @@
 
 [哨兵二号9波段10米融合产品](discuss/discuss_sentinel2_9bands10m.html)
 
+[可见光到短波红外2米9波段的高时频遥感产品](discuss/discuss_sentinel2_9bands2m.html)
+
 [哨兵二号5米制图](discuss/discuss_sentinel2_5m.html)
 
 ### 1.9 高分四号
