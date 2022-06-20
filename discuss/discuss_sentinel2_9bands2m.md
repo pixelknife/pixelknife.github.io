@@ -30,7 +30,7 @@
 
 ![cmp765.jpg](https://s2.loli.net/2022/06/20/3IgQvA2yEDmCWdN.jpg)
 
-▼波段组合（B12-B11-B7）短波红外
+▼波段组合（B12-B11-B7）短波红外，对于建筑等的材质有较好的区分度
 
 ![cmp987.jpg](https://s2.loli.net/2022/06/20/9HDUyvizTd2Fn3g.jpg)
 
@@ -38,7 +38,11 @@
 
 ![cmp973.jpg](https://s2.loli.net/2022/06/20/KCQ9BcpZkrtuHLj.jpg)
 
+
+
 这样的方法同样可以用于融合GF5、ZY1E/F、HJ2等[高光谱卫星的空间信息增强](discuss/discuss_hsi_dove.html)。不过因为高光谱传感器的幅宽较窄，时间频率会比较低，实际应用机会可能不如本文中的2米9波段产品。
+
+
 
 ---
 
