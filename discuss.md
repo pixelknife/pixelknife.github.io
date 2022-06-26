@@ -60,6 +60,8 @@
 
 [可见光到短波红外2米9波段的高时频遥感产品](discuss/discuss_sentinel2_9bands2m.html)
 
+[可见光到短波红外2米10波段的高时频遥感产品(广州案例)](discuss/discuss_sentinel2_2m_10bands.html)
+
 [哨兵二号5米制图](discuss/discuss_sentinel2_5m.html)
 
 ### 1.9 高分四号
