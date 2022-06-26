@@ -42,9 +42,8 @@
 
 样例数据集下载（ENVI格式）
 
-
-
 链接：https://pan.baidu.com/s/1QfSKQuJlMw0_pQXmoB6igw 
+
 提取码：wt5x
 
 
