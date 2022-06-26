@@ -49,7 +49,11 @@
 
 
 
+在ENVI5中打开后可以使用波谱曲线分析器，看到每个2米像素点的10个波段的折线。
 
+
+
+**![envi.jpg](https://s2.loli.net/2022/06/26/cxEor3KVOhYkBaH.jpg)**
 
 
 
