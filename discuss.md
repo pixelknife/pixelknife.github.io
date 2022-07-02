@@ -90,6 +90,8 @@
 
 [CBERS4融合](discuss/discuss_cbers4.html)
 
+[高效高准确率的城市两违变化监测](discuss/discuss_change_detect_lr_hr.html)
+
 ---
 
 
