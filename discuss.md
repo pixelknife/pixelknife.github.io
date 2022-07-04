@@ -16,6 +16,8 @@
 
 ### 1.4 高光谱 欧比特
 
+[欧比特高光谱波段之间配准](discuss/discuss_oubite_reg.html)
+
 [高光谱数据的压缩与扩张表达](discuss/discuss_hsi_display.html)
 
 [欧比特高光谱超分辨率](discuss/discuss_oubite.html)
