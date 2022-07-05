@@ -24,6 +24,31 @@ HEM1_20220116234418_0007_L1B_CMOS1
 ![cmp3.png](https://s2.loli.net/2022/07/05/12oBGs4fVKkjFht.png)
 ▲ 上面为10米未配准的原图，下面为5米超分结果
 
+
+
+样本数据下载
+
+    FTP服务器名：  satapp.radi.ac.cn
+    账号：  cfdata
+    密码：  cfdata123
+    
+    目录：  temp/oubite/sample_reg/
+    
+    使用FTP客户端下载（荐FTPRUSH）
+
+数据说明
+
+    欧比特高光谱超分案例
+    
+    源数据
+    HEM1_20220116234418_0007_L1B_CMOS1
+    
+    处理结果（ENVI格式，最大值从1024放大到65536）
+    src.envi 原数据集
+    reg.envi 配准后的结果，10米分辨率
+    reg_5m.envi 超分后的结果，5米分辨率
+
+
 ---
 
 陈甫 副研究员
