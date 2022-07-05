@@ -21,7 +21,8 @@ HEM1_20220116234418_0007_L1B_CMOS1
 
 下面再通过高光谱数据集的超分辨率，增加分辨率一倍到5米
 
-![new2.png](https://s2.loli.net/2022/07/05/Jgl4c1e9sPqzIOX.png)
+![cmp3.png](https://s2.loli.net/2022/07/05/12oBGs4fVKkjFht.png)
+
 
 ---
 
