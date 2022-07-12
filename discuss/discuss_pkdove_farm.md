@@ -1,12 +1,12 @@
-# 2米pkDove的农林应用
+# 2米8波段pkDove的农业应用
 
 
 [![bce7a8.jpg](https://s1.ax1x.com/2022/03/08/bce7a8.jpg)](https://imgtu.com/i/bce7a8)
 ▲ SuperDove、Sentinel2的波谱关系
 
-Planet公司的SuperDove卫星群相对于Sentinel2有更高的空间分辨率，更适合中国较小的农地。而相对于空间分辨率相当的国产高分卫星（GF1A/B/C/D、GF6 )，它有对植被辨识很重要的红边波段。
+Planet公司的SuperDove卫星群相对于Sentinel2有更高的空间分辨率，更适合中国较小的农地。而相对于空间分辨率相当的国产高分卫星（GF1A/B/C/D、GF6 )，它有对植被辨识很重要的红边波段。而且因为Planet有更多卫星，在天气晴朗的情况下，时间分辨率可以达到1~2天一次，非常适合需要高时频监测的农业场景。
 
-pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数据做的质量提升，将3米8波段的分发数据产品，提高到2米8波段，保证其波谱数值稳定，可以用于定量化分析。
+pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数据做的质量提升，将3米8波段的分发数据产品，提高到2米8波段，而其波谱数值稳定，可以用于定量化分析。
 
 我们用pkDove处理了黑龙江哈尔滨附近的SuperDove数据样例
 
