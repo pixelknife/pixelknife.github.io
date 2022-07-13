@@ -22,6 +22,8 @@
 
 [欧比特高光谱超分辨率](discuss/discuss_oubite.html)
 
+[融合最高时、空、谱的遥感产品](discuss/discuss_oubite_planet.html)
+
 ### 1.5 资源一号02D(ZY1E)
 
 [ZY1E高光谱VN超分3倍到10米](discuss/discuss_zy1e_hsi.html)
@@ -35,8 +37,6 @@
 [10米76波段高分辨率高光谱产品](discuss/discuss_zy1e_hsi_10m.html)
 
 [高光谱与高空间的空谱融合产品](discuss/discuss_hsi_dove.html)
-
-
 
 ### 1.6 夜光
 
