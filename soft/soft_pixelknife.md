@@ -24,6 +24,7 @@
 
 ### 1.6  [纹理保真锐化](algorithm/algorithm_unsharp.html)
 
+### 1.7  [纹理保真锐化](algorithm/algorithm_fine_tdt_landsat.html)
 
 
 ## 2 配置环境
