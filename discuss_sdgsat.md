@@ -12,6 +12,8 @@ SDGSAT卫星拥有多光谱MII、热红外TIS、微光GIU三个传感器。遥�
 
 [SDGSAT的多光谱MII传感器的清晰化](discuss/discuss_sdgsat_mii_sr.html)
 
+[SDG-MII传感器的蓝波段的表现](discuss/discuss_sdgsat_mii_blue_band.html)
+
 ## 热红外TIS
 
 [SDGSAT的TIS传感器波段之间的几何偏差](discuss/discuss_sdgsat_tis.html)
