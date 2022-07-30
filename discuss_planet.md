@@ -16,6 +16,8 @@ Planet公司以廉价小卫星星座为特点，其中有一百多颗鸽子dove�
 
 [pkDove的农业应用](discuss/discuss_pkdove_farm.html)
 
+[超分融合提高地物分类精度](discuss/discuss_sr_fuse_classify.html)
+
 ## SkySat卫星群
 
 [SKYSAT纹理增强](discuss/discuss_skysat_enh.html)
