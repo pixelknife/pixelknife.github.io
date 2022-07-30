@@ -38,13 +38,13 @@ Planet的SuperDove提供3米8波段的数据集，因此可以比较好地用于
 
 更多的波段有助于地物的区分，更高的分辨率有助于细小地物的提取。
 
-![raw_3m.jpg](https://s2.loli.net/2022/07/30/xyCzuO1XaGIFNsb.jpg)
+![3m.png](https://s2.loli.net/2022/07/30/gIwypU3e9mTFWbK.png)
 ▲3米8波段分类
 
-![sharp_2m.jpg](https://s2.loli.net/2022/07/30/CjQpuTGSILzdEfv.jpg)
+![2m.png](https://s2.loli.net/2022/07/30/PaT2Om5wXQgLrcF.png)
 ▲2米8波段分类
 
-![fuse_2m.png](https://s2.loli.net/2022/07/30/le1NKTMDFir6BUd.png)
+![13band.png](https://s2.loli.net/2022/07/30/bV1Q62kZ3RgWjOD.png)
 ▲2米13波段分类
 
 我们的实验的体验，面向对象的分类比基于像素的分类更有效，能够解决超分后斑点噪声的问题。
