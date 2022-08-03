@@ -68,6 +68,9 @@
 
 [哨兵二号5米制图](discuss/discuss_sentinel2_5m.html)
 
+[哨兵二号以及高分系列卫星的大气校正](discuss/discuss_sentinel2_gf_2m.html)
+
+
 ### 1.9 高分四号
 
 [高分四号质量提升](discuss/discuss_gf4.md)
