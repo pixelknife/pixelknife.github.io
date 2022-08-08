@@ -109,6 +109,28 @@ Your browser does not support the video tag.
 </video>
 </center>
 
+## 6 彩色化
+
+NPP获取的夜光只有强度信息，而SDGSAT1可以获取真彩色的内容。但是NPP的时序从2012开始有持续的价值。我们可以通过将两个数据源的内容融合来获取真彩色的夜光时序。
+
+只融合SDGSAT1的色彩信息
+
+<center>
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
+  <source src="npp_color.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+</center>
+
+同时融合SDGSAT1的色彩信息和细节纹理信息
+
+<center>
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
+  <source src="npp_color2.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+</center>
+
 ---
 
 
