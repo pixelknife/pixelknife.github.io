@@ -2,13 +2,21 @@
 
 
 
-SKYSAT卫星的实际分辨率是0.65米的全色和0.81米的多光谱，分发产品的分辨率为0.5米。
+SKYSAT卫星的实际分辨率是0.65米的全色和0.81米的多光谱，分发产品的分辨率为0.5米。相对于大多数PAN和MS比率1:4的卫星，SKYSAT的实际信息量密度更大。可以设计算法更好的挖掘出其中的纹理信息。
 
-我们可以把制图分辨率提高2倍到0.25米，体验一下处理前后的差别。
+首先，可以在0.5米的基础上提高纹理细节。下图左边是分发的0.5米产品，右侧是像素刻刀软件增强后的0.5米产品。
 
-![chip_show_s3_a.jpg](https://s2.loli.net/2022/08/20/reUHO2m4wIfQNAY.jpg)
 
-![chip_show_s3.jpg](https://s2.loli.net/2022/08/20/TgGxqEVKu71mQnJ.jpg)
+
+![chip_show_x2_s4.jpg](https://s2.loli.net/2022/08/20/YT7OokL6Bb1XGDA.jpg)
+
+
+
+第二，我们可以把图像放大2倍，将制图分辨率提高到0.25米，体验一下处理前后的差别。
+
+
+
+![chip_show_x1_s3.jpg](https://s2.loli.net/2022/08/20/azDUJM9Chk23EKZ.jpg)
 
 ---
 
