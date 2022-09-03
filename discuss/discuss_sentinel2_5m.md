@@ -4,16 +4,15 @@
 
 我们通过一系列图像处理方法，将原来10米/20米的空间分辨率做一定的提升，将制图分辨率提高到一倍，形成5米10波段的数据集。波段波长列表(492, 559, 664, 704, 740, 781, 830, 864, 1612, 2190)。
 
-
-![img2.jpg](https://s2.loli.net/2022/09/03/GghmkytbuaCZPds.jpg)
+![img2.jpg](https://s2.loli.net/2022/09/03/4D6k2nHcjUaBlNP.jpg)
 ▲ 可见光真彩色（664-559-492）
 
-![img3.jpg](https://s2.loli.net/2022/09/03/NFVWCOe9ukrQds2.jpg)
+![img3.jpg](https://s2.loli.net/2022/09/03/9qKlM6gbptzGixP.jpg)
 ▲ 短波红外-近红外-红边（1612-864-704）
 
 比较处理前后的每个波段
 
-![img1.jpg](https://s2.loli.net/2022/09/03/UjDfarCimlL6N2v.jpg)
+![img1.jpg](https://s2.loli.net/2022/09/03/O8d4nbk9iFzMBRU.jpg)
 ▲各个波段比较
 
 这样的处理，并没有实质性增加图像的信息，但是对于一些纹理细节有所突出，对于图像的可视效果有所提高。
