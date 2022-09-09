@@ -27,15 +27,11 @@ https://map.baidu.com/@12987404.522244945,4854065.155816264,16.54z/maptype%3DB_E
 
 我们还制作了基于WEBGIS的动态卷帘比较工具，可以浏览大图。下面是北京市的一个例子
 
+[B09(20M)-B07(10M)-B04(10M)波段组合，短波红外-近红外-可见光](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=cc57c70e-e91b-4ba5-89b4-b7888f367663)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=cc57c70e-e91b-4ba5-89b4-b7888f367663
-▲B09(20M)-B07(10M)-B04(10M)波段组合，短波红外-近红外-可见光
+[B07(20M)-B06(20M)-B05(20M)波段组合，红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=322ccebd-dec2-4d5c-93ab-28126f4af123)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=322ccebd-dec2-4d5c-93ab-28126f4af123
-▲B07(20M)-B06(20M)-B05(20M)波段组合，红边
-
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=eebdf409-1e7f-44e9-9ef8-6d12cb643f32
-▲B04(10M)-B03(10M)-B02(10M)波段组合，真彩色
+[B04(10M)-B03(10M)-B02(10M)波段组合，真彩色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=eebdf409-1e7f-44e9-9ef8-6d12cb643f32)
 
 
 ---
