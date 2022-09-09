@@ -6,10 +6,7 @@
 
 下面以一景北京的数据为例
 
-百度底图可以作为实际参考
-
-https://map.baidu.com/@12987404.522244945,4854065.155816264,16.54z/maptype%3DB_EARTH_MAP
-
+[百度地图的卫星影像图层可以作为实际参考(Ground Truth)](https://map.baidu.com/@12987404.522244945,4854065.155816264,16.54z/maptype%3DB_EARTH_MAP)
 
 
 ![img2.jpg](https://s2.loli.net/2022/09/03/4D6k2nHcjUaBlNP.jpg)
