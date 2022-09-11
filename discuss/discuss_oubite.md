@@ -8,25 +8,14 @@
 
 比如下面白洋淀的样例，左边是原来10米的RGB自然色组合，右边是处理后的结果，让地物细节增加了很多，原本模糊的地物也浮现了出来。
 
-[![HLiXOs.jpg](https://s4.ax1x.com/2022/02/20/HLiXOs.jpg)](https://imgtu.com/i/HLiXOs)
+![nature.jpg](https://s2.loli.net/2022/09/12/5sSb1uO2UdiIYF6.jpg)
 
 它可以提高每个波段的细节，而且并没有改变波谱的特性，下面是32个波段逐个的对比。
 
-[![HLixwq.jpg](https://s4.ax1x.com/2022/02/20/HLixwq.jpg)](https://imgtu.com/i/HLixwq)
-
+![enh.jpg](https://s2.loli.net/2022/09/12/mWXRZxtKwIDOj24.jpg)
 
 
 也就是说通过软件的处理，可以把原有的卫星直接升级成为5米32波段的产品，大幅增加用户的使用体验。
-
-
-
-**样品下载**
-
-一个完整景的成果样品可以在我们的FTP中下载
-
-FTP：
-
-服务器： satapp.radi.ac.cn 账号： cfdata 密码： cfdata123 目录： temp/oubite/
 
 
 
