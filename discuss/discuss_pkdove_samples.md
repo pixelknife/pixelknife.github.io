@@ -24,73 +24,73 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 广州
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=99effe40-8639-4476-ab37-0f1572a1fd86
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=99effe40-8639-4476-ab37-0f1572a1fd86)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3ff7b91c-df86-420f-95e1-dee8337fbbc3
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3ff7b91c-df86-420f-95e1-dee8337fbbc3)
 
 
 
 桂林
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3ca5e0c2-04c5-44de-8f55-45067af203ac
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3ca5e0c2-04c5-44de-8f55-45067af203ac)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=78dd0ee0-93f7-4d78-a095-a05249e45216
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=78dd0ee0-93f7-4d78-a095-a05249e45216)
 
 
 
 大理
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=64a81d10-b94f-4a00-bf18-6dae1726f097
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=64a81d10-b94f-4a00-bf18-6dae1726f097)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=ae3dde16-096c-45fd-aa55-622da121bd65
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=ae3dde16-096c-45fd-aa55-622da121bd65)
 
 
 
 崇左
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=600cf9dc-0e78-41aa-aba5-1a8832963731
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=600cf9dc-0e78-41aa-aba5-1a8832963731)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=2d574375-251c-4578-919e-2176b3a39d09
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=2d574375-251c-4578-919e-2176b3a39d09)
 
 
 
 重庆
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3c0fc612-6a03-4276-baef-5bb73f281f32
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3c0fc612-6a03-4276-baef-5bb73f281f32)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e8258963-eb53-4b7d-a5ef-aef7344645c1
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e8258963-eb53-4b7d-a5ef-aef7344645c1)
 
 
 
 钦州
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=055b9de9-ec12-41d7-b243-a21f35875e89
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=055b9de9-ec12-41d7-b243-a21f35875e89)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e31e69d1-1666-4277-bb0c-b614bfeae2fc
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e31e69d1-1666-4277-bb0c-b614bfeae2fc)
 
 
 
 海花岛
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=659192e2-8f93-4b5f-8779-64b1a64412c9
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=659192e2-8f93-4b5f-8779-64b1a64412c9)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=72026259-3a86-40e3-bfd3-a2bf62b04969
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=72026259-3a86-40e3-bfd3-a2bf62b04969)
 
 
 
 拉萨
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d1738a1e-8f79-47ac-8ed0-6a63ea07e1e1
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d1738a1e-8f79-47ac-8ed0-6a63ea07e1e1)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d5d0afc1-f118-4f49-bbdb-5a7c6c0737a5
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d5d0afc1-f118-4f49-bbdb-5a7c6c0737a5)
 
 
 
 美国圣迭戈
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=a671f7cc-b043-4ca5-ae39-870e4d28e8e3
+[自然色](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=a671f7cc-b043-4ca5-ae39-870e4d28e8e3)
 
-http://satsee.radi.ac.cn:8080/guang/guang.html?uid=86abc3c0-9d8c-4df9-97a3-9f6a412b625e
+[红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=86abc3c0-9d8c-4df9-97a3-9f6a412b625e)
 
 
 
