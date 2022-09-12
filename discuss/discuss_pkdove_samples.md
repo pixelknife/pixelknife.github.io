@@ -23,78 +23,78 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 
 
+广州
 
-[![LSwwdI.jpg](https://s1.ax1x.com/2022/04/07/LSwwdI.jpg)](https://imgtu.com/i/LSwwdI)
-▲ 美国加州圣迭戈海军基地
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=99effe40-8639-4476-ab37-0f1572a1fd86
 
-[![LSw6SS.jpg](https://s1.ax1x.com/2022/04/07/LSw6SS.jpg)](https://imgtu.com/i/LSw6SS)
-▲ 美国夏威夷珍珠港
-
-[![LSXqw4.jpg](https://s1.ax1x.com/2022/04/07/LSXqw4.jpg)](https://imgtu.com/i/LSXqw4)
-▲ 美国飞机坟墓
-
-[![LSwcQg.jpg](https://s1.ax1x.com/2022/04/07/LSwcQg.jpg)](https://imgtu.com/i/LSwcQg)
-▲ 上海江南造船厂
-
-[![LSwDFP.jpg](https://s1.ax1x.com/2022/04/07/LSwDFP.jpg)](https://imgtu.com/i/LSwDFP)
-▲ 广州白云机场
-
-[![LSw0ot.jpg](https://s1.ax1x.com/2022/04/07/LSw0ot.jpg)](https://imgtu.com/i/LSw0ot)
-▲ 西藏拉萨布达拉宫
-
-[![LSwgyQ.jpg](https://s1.ax1x.com/2022/04/07/LSwgyQ.jpg)](https://imgtu.com/i/LSwgyQ)
-▲ 台北圆山风景区
-
-[![LpFrqI.jpg](https://s1.ax1x.com/2022/04/08/LpFrqI.jpg)](https://imgtu.com/i/LpFrqI)
-▲ 洞庭湖生态
-
-[![LpFDsA.jpg](https://s1.ax1x.com/2022/04/08/LpFDsA.jpg)](https://imgtu.com/i/LpFDsA)
-▲ 海南海花岛
-
-[![LpkVQH.jpg](https://s1.ax1x.com/2022/04/08/LpkVQH.jpg)](https://imgtu.com/i/LpkVQH)
-▲ 广西钦州湾生态
-
-[![LSwrJf.jpg](https://s1.ax1x.com/2022/04/07/LSwrJf.jpg)](https://imgtu.com/i/LSwrJf)
-▲ 桂林漓江风景区
-
-[![LZFjte.jpg](https://s1.ax1x.com/2022/04/11/LZFjte.jpg)](https://imgtu.com/i/LZFjte)
-▲ 广西崇左农村
-
-[![LSwsW8.jpg](https://s1.ax1x.com/2022/04/07/LSwsW8.jpg)](https://imgtu.com/i/LSwsW8)
-▲ 江苏油菜花
-
-[![LSaa1e.jpg](https://s1.ax1x.com/2022/04/07/LSaa1e.jpg)](https://imgtu.com/i/LSaa1e)
-▲ 福建宁德三都澳养殖场
-
-[![LSwfwn.jpg](https://s1.ax1x.com/2022/04/07/LSwfwn.jpg)](https://imgtu.com/i/LSwfwn)
-▲ 重庆嘉陵江口
-
-[![LSw2Lj.jpg](https://s1.ax1x.com/2022/04/07/LSw2Lj.jpg)](https://imgtu.com/i/LSw2Lj)
-▲ 长沙橘子洲
-
-[![LSwWes.jpg](https://s1.ax1x.com/2022/04/07/LSwWes.jpg)](https://imgtu.com/i/LSwWes)
-▲ 大理火烧迹地
-
-[![L3EepR.jpg](https://s1.ax1x.com/2022/04/14/L3EepR.jpg)](https://imgtu.com/i/L3EepR)
-▲ 上海洋山港
-
-[![L3EVh9.jpg](https://s1.ax1x.com/2022/04/14/L3EVh9.jpg)](https://imgtu.com/i/L3EVh9)
-▲ 永暑礁
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3ff7b91c-df86-420f-95e1-dee8337fbbc3
 
 
-可以通过FTP工具下载这些样例景
 
-[![q4B8l4.jpg](https://s1.ax1x.com/2022/04/01/q4B8l4.jpg)](https://imgtu.com/i/q4B8l4)
+桂林
 
-    FTP服务器：  satapp.radi.ac.cn
-    账号：  cfdata
-    密码：  cfdata123
-    
-    目录：  temp/pkdove/
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3ca5e0c2-04c5-44de-8f55-45067af203ac
 
-个别FTP客户端可能不好使，如果连接不上，推荐FTPRUSH下载。
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=78dd0ee0-93f7-4d78-a095-a05249e45216
 
-原来的3M产品大概是1GB，超分的2M产品大概是3GB。
+
+
+大理
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=64a81d10-b94f-4a00-bf18-6dae1726f097
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=ae3dde16-096c-45fd-aa55-622da121bd65
+
+
+
+崇左
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=600cf9dc-0e78-41aa-aba5-1a8832963731
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=2d574375-251c-4578-919e-2176b3a39d09
+
+
+
+重庆
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3c0fc612-6a03-4276-baef-5bb73f281f32
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e8258963-eb53-4b7d-a5ef-aef7344645c1
+
+
+
+钦州
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=055b9de9-ec12-41d7-b243-a21f35875e89
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e31e69d1-1666-4277-bb0c-b614bfeae2fc
+
+
+
+海花岛
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=659192e2-8f93-4b5f-8779-64b1a64412c9
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=72026259-3a86-40e3-bfd3-a2bf62b04969
+
+
+
+拉萨
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d1738a1e-8f79-47ac-8ed0-6a63ea07e1e1
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d5d0afc1-f118-4f49-bbdb-5a7c6c0737a5
+
+
+
+美国圣迭戈
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=a671f7cc-b043-4ca5-ae39-870e4d28e8e3
+
+http://satsee.radi.ac.cn:8080/guang/guang.html?uid=86abc3c0-9d8c-4df9-97a3-9f6a412b625e
+
+
+
 
 
 
