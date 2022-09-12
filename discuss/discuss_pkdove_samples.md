@@ -21,6 +21,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 下面展示了一些案例，展示了通过我们的算法处理前后的差别，一个链接是自然色（6-4-2组合），一个链接是红边（8-7-6组合）。
 
+---
 
 广州
 
@@ -28,7 +29,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=3ff7b91c-df86-420f-95e1-dee8337fbbc3)
 
-
+---
 
 桂林
 
@@ -36,7 +37,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=78dd0ee0-93f7-4d78-a095-a05249e45216)
 
-
+---
 
 大理
 
@@ -44,7 +45,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=ae3dde16-096c-45fd-aa55-622da121bd65)
 
-
+---
 
 崇左
 
@@ -52,7 +53,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=2d574375-251c-4578-919e-2176b3a39d09)
 
-
+---
 
 重庆
 
@@ -60,7 +61,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e8258963-eb53-4b7d-a5ef-aef7344645c1)
 
-
+---
 
 钦州
 
@@ -68,7 +69,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=e31e69d1-1666-4277-bb0c-b614bfeae2fc)
 
-
+---
 
 海花岛
 
@@ -76,7 +77,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=72026259-3a86-40e3-bfd3-a2bf62b04969)
 
-
+---
 
 拉萨
 
@@ -84,7 +85,7 @@ pkDove是通过像素刻刀（PixelKnife）软件对Planet的SuperDove卫星数�
 
 [红边](http://satsee.radi.ac.cn:8080/guang/guang.html?uid=d5d0afc1-f118-4f49-bbdb-5a7c6c0737a5)
 
-
+---
 
 美国圣迭戈
 
