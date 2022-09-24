@@ -13,28 +13,8 @@
 
 下面是做的一些军事相关的一些案例
 
-左边一列是Planet卫星星座的时序图像，中间一列是归一化后的结果，右边一列是归一化结果前后两个时相之间的变化检测结果。
 
-
-
----
-
-
-
-
-上海江南造船厂
-
-[![XrKvUs.jpg](https://s1.ax1x.com/2022/06/08/XrKvUs.jpg)](https://imgtu.com/i/XrKvUs)
-
-
-
----
-
-
-
-日本东京横须贺军港
-
-[![XrE8y9.jpg](https://s1.ax1x.com/2022/06/08/XrE8y9.jpg)](https://imgtu.com/i/XrE8y9)
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/OGbAb" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
 
 
 ---
