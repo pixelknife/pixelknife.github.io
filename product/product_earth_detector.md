@@ -13,9 +13,7 @@
 
 下面是做的一些军事相关的一些案例
 
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/OGbAb" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
-
+![flow_all.jpg](https://s2.loli.net/2022/09/24/hbgFDMGrjV6cIAi.jpg)
 
 ---
 
