@@ -11,6 +11,10 @@ SAR卫星由于不受云层遮挡，不受限于太阳光，因此可以实现�
 
 图中橘红色是雷达回波增强，蓝色是回波减弱，而灰色则表示变化不显著。
 
+再展示一个广州白云机场，[点击链接]( https://streamja.com/embed/Q2bMq)
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/Q2bMq" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
+
 这样的产品可以作为一种检测城镇违法用地、违法建筑的示波器，通过彩色的图斑快速定位可疑的区域，然后再结合光学卫星或者无人机影像做最后的确认取证。
 
 ---
