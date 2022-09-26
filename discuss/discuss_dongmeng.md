@@ -8,17 +8,26 @@ NPP夜光传感器的物理分辨率是750米，而NPP夜光月度产品的发�
 
 在年度变化检测时序中，橘红色表明灯光强度增加，蓝色表示强度减少，而灰色表示没有显著变化。
 
+---
+
 [泰国曼谷](https://streamja.com/roQ4p)
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/roQ4p" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
+
+---
 
 [印尼雅加达万隆](https://streamja.com/5qwpJ)
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/5qwpJ" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
 
+---
+
 [马来半岛南部、新加坡](https://streamja.com/qLQ4Q)
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/qLQ4Q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
+
+---
+
 
 ## 2 彩色夜光时序
 
