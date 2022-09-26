@@ -20,9 +20,16 @@ NPP夜光传感器的物理分辨率是750米，而NPP夜光月度产品的发�
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/qLQ4Q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
 
-## 2 利用SDGSAT给NPP夜光赋予彩色
+## 2 彩色夜光时序
 
+SDGSAT的夜光具备彩色信息，但是智能面向未来。但是如果假设城市灯光产生之后基本不变，那么用目前的颜色给历史灯光赋值，还是有一定可信度的。
 
+<center>
+<video width="640" controls="controls" loop="loop" autoplay="autoplay">
+  <source src="npp_color2.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+</center>
 
 ---
 
