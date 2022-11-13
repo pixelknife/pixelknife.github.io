@@ -32,6 +32,8 @@ SDGSAT卫星拥有多光谱MII、热红外TIS、微光GIU三个传感器。遥�
 
 [SDGSAT微光和NPP的协作](discuss/discuss_sdgsat_giu_npp.html)
 
+[SDGSAT微光的日夜融合](discuss/discuss_sdgsat_giu_daynight.html)
+
 ---
 
 陈甫 副研究员
