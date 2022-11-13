@@ -2,6 +2,8 @@
 
 采用SDGSAT的夜光和PlanetScope影像相结合
 
+[点击循环播放](https://streamja.com/4qZkV)
+
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/4qZkV" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
 
 ---
