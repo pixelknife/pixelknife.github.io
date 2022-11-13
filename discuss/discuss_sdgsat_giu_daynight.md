@@ -1,6 +1,6 @@
 # SDGSAT-GUI日夜融合
 
-采用SDGSAT的夜光和PlanetScope影像相结合
+采用SDGSAT的夜光和PlanetScope影像相结合，模仿从白天到深夜的过渡，可以让用户同时看清灯光以及灯光周边的地物。
 
 [点击循环播放](https://streamja.com/4qZkV)
 
