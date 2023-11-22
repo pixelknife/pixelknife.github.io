@@ -77,7 +77,11 @@
 
 [高分四号纹理增强](discuss/discuss_gf4_enh.md)
 
-### 1.10 其他
+### 1.10 SPOT(1~5)历史数据
+
+[SPOT5历史数据再利用](discuss/discuss_spot5.md)
+
+### 1.11 其他
 
 [资源卫星中心和空天院的遥感卫星资源比较](discuss/discuss_difference_cresda.html)
 
