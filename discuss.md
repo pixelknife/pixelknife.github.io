@@ -81,7 +81,11 @@
 
 [SPOT5历史数据再利用](discuss/discuss_spot5.md)
 
-### 1.11 其他
+### 1.11 AI超分辨率
+
+[北京市2米->1米示例](discuss/discuss_ai_super.md)
+
+### 1.12 其他
 
 [资源卫星中心和空天院的遥感卫星资源比较](discuss/discuss_difference_cresda.html)
 
