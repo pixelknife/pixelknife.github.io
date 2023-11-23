@@ -11,6 +11,14 @@
 
 
 
+对比细节
+
+
+![sample3.jpg](https://s2.loli.net/2023/11/23/O3SoRd8qH4ynrjs.jpg)
+
+
+
+
 通过我们的像素刻刀(PixelKnife)软件可以得到目前世界高水准的视觉体验，充分发挥卫星影像的信息潜力。
 
 
