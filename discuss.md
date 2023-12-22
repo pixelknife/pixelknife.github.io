@@ -85,6 +85,8 @@
 
 [北京市2米->1米示例](discuss/discuss_ai_super.md)
 
+[Planet网站瓦块3米->1米](discuss/discuss_ai_super_planet_tile.md)
+
 ### 1.12 其他
 
 [资源卫星中心和空天院的遥感卫星资源比较](discuss/discuss_difference_cresda.html)
