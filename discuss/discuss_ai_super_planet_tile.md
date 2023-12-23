@@ -4,7 +4,15 @@ Planet公司发射了一百多颗Planetscope卫星，形成了接近全球每日
 
 我们收集Planetscope数据与GF2形成训练集，通过AI模型形成业务化流程。输入Planet网站上的瓦块数据（3米），输出模仿对应高分二号的图像（1米）。
 
-下面是我们在广西一个项目中的实际案例示范。
+下面是我们在广西一个项目中的实际案例。这个项目的核心是要在广西这个多云雨的地方实现月度以上频率的卫星数据覆盖，我们使用了2~3米的数据源并加以超分来实现用户的需求。
+
+![3b041b2a33b6818eb5adae253566918.png](https://s2.loli.net/2023/12/23/GlMWVgrAtUyjoEZ.png)
+
+![848c2dd2da585a407608465db9b40e2.png](https://s2.loli.net/2023/12/23/9FJvEUbfH7u1CnQ.png)
+
+
+
+Planet网站瓦片数据的超分前后比较实例
 
 ![1.gif](https://s2.loli.net/2023/12/22/7s3IYuBHlpOhjSE.gif)
 
