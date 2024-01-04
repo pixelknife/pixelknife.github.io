@@ -41,14 +41,13 @@
 
 ![OBT纹理增强.jpg](https://s2.loli.net/2022/12/07/nfPXLbRaEjVvwhS.jpg)
 
+逐一审视32个波段的效果
 
-通过一个实例加以检验，下面是处理前后的比较
+![nature.jpg](https://s2.loli.net/2022/09/12/5sSb1uO2UdiIYF6.jpg)
 
-![obt_x2.jpg](https://s2.loli.net/2023/04/11/yqXFewzOIsVHv3C.jpg)
+它可以提高每个波段的细节，而且并没有改变波谱的整体特性，下面是32个波段逐个的对比。
 
-下面是该区域高分二号拍摄的实际情况
-
-![obt_gf2.jpg](https://s2.loli.net/2023/04/11/on819I5lZxmWvTw.jpg)
+![enh.jpg](https://s2.loli.net/2022/09/12/mWXRZxtKwIDOj24.jpg)
 
 ## 4 合并效果
 
