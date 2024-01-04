@@ -41,7 +41,7 @@
 
 ![OBT纹理增强.jpg](https://s2.loli.net/2022/12/07/nfPXLbRaEjVvwhS.jpg)
 
-逐一审视32个波段的效果
+这里再展示一个效果比较明显的白洋淀的例子
 
 ![nature.jpg](https://s2.loli.net/2022/09/12/5sSb1uO2UdiIYF6.jpg)
 
