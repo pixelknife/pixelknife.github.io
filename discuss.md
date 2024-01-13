@@ -107,6 +107,9 @@
 
 [高效高准确率的城市两违变化监测](discuss/discuss_change_detect_lr_hr.html)
 
+[吉林一号光谱星修复](discuss/discuss_jl1gp.html)
+
+
 ---
 
 
