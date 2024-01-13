@@ -13,13 +13,19 @@
 
 我下载了十几景分发数据，发现辐射（色彩方面）确实已经做了大气校正。但是几乎每景都能看到红眼皮现象，有些地方还特别显著。看来波段之间的配准并没有做好。
 
+
+
+比如，JL1GP02_PMS1_20210203074337_200039767_102_0006_001_L3B
+
+
+
 ![jl1gp_old.jpg](https://s2.loli.net/2024/01/13/wHVMA4dScJNGYsj.jpg)
 
 通过PixelKnife修复后
 
 ![jl1gp_new.jpg](https://s2.loli.net/2024/01/13/DkalQue5v6RjNcM.jpg)
 
-看来该卫星的预处理系统和Landsat/Sentinel2还是有一定差距。
+看来该卫星的预处理系统和Landsat8/9和Sentinel2等国际主流卫星相比，还是有一定差距。
 
 
 ---
